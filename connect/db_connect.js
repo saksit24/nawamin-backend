@@ -5,6 +5,8 @@ var con = mysql.createConnection({
   user: 'root',
   password: '',
   database:'db_fitness_v2'
+
+  
 });
 
 // var con = mysql.createConnection({
