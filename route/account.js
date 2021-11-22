@@ -18,6 +18,7 @@ router.get('/get_account',
             res.status(200).json({
                 success: true,
                 result: req.result
+                
             })
         }
     ),
