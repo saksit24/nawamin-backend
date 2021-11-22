@@ -1,0 +1,154 @@
+[13: 08: 14] [ip]: ::ffff:192.168.1.64 - [method]: POST [url]: /api/v1/user_app/app_login HTTP/1.1 [status]: 200 [response-time]: 1180.860 ms [client]: okhttp/3.12.1
+[13: 08: 14] [ip]: ::ffff:192.168.1.64 - [method]: POST [url]: /api/v1/user_app/app_login HTTP/1.1 [status]: 200 [response-time]: 489.296 ms [client]: okhttp/3.12.1
+[13: 08: 14] [ip]: ::ffff:192.168.1.64 - [method]: POST [url]: /api/v1/user_app/app_login HTTP/1.1 [status]: 200 [response-time]: 481.894 ms [client]: okhttp/3.12.1
+[13: 08: 14] [ip]: ::ffff:192.168.1.64 - [method]: POST [url]: /api/v1/user_app/app_login HTTP/1.1 [status]: 200 [response-time]: 568.532 ms [client]: okhttp/3.12.1
+[13: 08: 14] [ip]: ::ffff:192.168.1.64 - [method]: POST [url]: /api/v1/user_app/app_login HTTP/1.1 [status]: 200 [response-time]: 462.020 ms [client]: okhttp/3.12.1
+[13: 08: 14] [ip]: ::ffff:192.168.1.64 - [method]: POST [url]: /api/v1/user_app/app_login HTTP/1.1 [status]: 200 [response-time]: 452.050 ms [client]: okhttp/3.12.1
+[13: 08: 14] [ip]: ::ffff:192.168.1.64 - [method]: POST [url]: /api/v1/user_app/app_login HTTP/1.1 [status]: 200 [response-time]: 493.516 ms [client]: okhttp/3.12.1
+[13: 08: 14] [ip]: ::ffff:192.168.1.64 - [method]: POST [url]: /api/v1/user_app/app_login HTTP/1.1 [status]: 200 [response-time]: 477.740 ms [client]: okhttp/3.12.1
+[13: 08: 14] [ip]: ::ffff:192.168.1.64 - [method]: POST [url]: /api/v1/user_app/app_login HTTP/1.1 [status]: 200 [response-time]: 502.547 ms [client]: okhttp/3.12.1
+[13: 08: 14] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/app_pro/img_promotiotion_app HTTP/1.1 [status]: 304 [response-time]: 301.579 ms [client]: okhttp/3.12.1
+[13: 08: 14] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/user_app/get_user HTTP/1.1 [status]: 200 [response-time]: 307.102 ms [client]: okhttp/3.12.1
+[13: 08: 14] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/app_pro/img_promotiotion_app HTTP/1.1 [status]: 304 [response-time]: 344.159 ms [client]: okhttp/3.12.1
+[13: 08: 14] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/user_app/get_user HTTP/1.1 [status]: 304 [response-time]: 375.730 ms [client]: okhttp/3.12.1
+[13: 08: 14] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/app_pro/img_promotiotion_app HTTP/1.1 [status]: 304 [response-time]: 368.209 ms [client]: okhttp/3.12.1
+[13: 08: 14] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/user_app/get_user HTTP/1.1 [status]: 304 [response-time]: 363.094 ms [client]: okhttp/3.12.1
+[13: 08: 14] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/app_pro/img_promotiotion_app HTTP/1.1 [status]: 304 [response-time]: 346.767 ms [client]: okhttp/3.12.1
+[13: 08: 14] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/user_app/get_user HTTP/1.1 [status]: 304 [response-time]: 361.371 ms [client]: okhttp/3.12.1
+[13: 08: 14] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/app_pro/img_promotiotion_app HTTP/1.1 [status]: 304 [response-time]: 338.209 ms [client]: okhttp/3.12.1
+[13: 08: 14] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/user_app/get_user HTTP/1.1 [status]: 304 [response-time]: 371.148 ms [client]: okhttp/3.12.1
+[13: 08: 14] [ip]: ::ffff:192.168.1.64 - [method]: POST [url]: /api/v1/user_app/app_login HTTP/1.1 [status]: 200 [response-time]: 513.663 ms [client]: okhttp/3.12.1
+[13: 08: 14] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/app_pro/img_promotiotion_app HTTP/1.1 [status]: 304 [response-time]: 868.675 ms [client]: okhttp/3.12.1
+[13: 08: 14] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/user_app/get_user HTTP/1.1 [status]: 304 [response-time]: 570.892 ms [client]: okhttp/3.12.1
+[13: 08: 14] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/app_pro/img_promotiotion_app HTTP/1.1 [status]: 304 [response-time]: 556.545 ms [client]: okhttp/3.12.1
+[13: 08: 14] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/user_app/get_user HTTP/1.1 [status]: 304 [response-time]: 556.874 ms [client]: okhttp/3.12.1
+[13: 08: 14] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/app_pro/img_promotiotion_app HTTP/1.1 [status]: 304 [response-time]: 580.065 ms [client]: okhttp/3.12.1
+[13: 08: 14] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/user_app/get_user HTTP/1.1 [status]: 304 [response-time]: 582.424 ms [client]: okhttp/3.12.1
+[13: 08: 14] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/app_pro/img_promotiotion_app HTTP/1.1 [status]: 304 [response-time]: 597.667 ms [client]: okhttp/3.12.1
+[13: 08: 14] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/user_app/get_user HTTP/1.1 [status]: 304 [response-time]: 588.750 ms [client]: okhttp/3.12.1
+[13: 08: 14] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/app_pro/img_promotiotion_app HTTP/1.1 [status]: 304 [response-time]: 587.673 ms [client]: okhttp/3.12.1
+[13: 08: 14] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/user_app/get_user HTTP/1.1 [status]: 304 [response-time]: 595.279 ms [client]: okhttp/3.12.1
+[13: 08: 14] [ip]: ::ffff:192.168.1.64 - [method]: POST [url]: /api/v1/user_app/app_login HTTP/1.1 [status]: 200 [response-time]: 473.401 ms [client]: okhttp/3.12.1
+[13: 08: 14] [ip]: ::ffff:192.168.1.64 - [method]: POST [url]: /api/v1/user_app/app_login HTTP/1.1 [status]: 200 [response-time]: 956.217 ms [client]: okhttp/3.12.1
+[13: 08: 14] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/app_pro/img_promotiotion_app HTTP/1.1 [status]: 304 [response-time]: 362.390 ms [client]: okhttp/3.12.1
+[13: 08: 14] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/user_app/get_user HTTP/1.1 [status]: 304 [response-time]: 669.883 ms [client]: okhttp/3.12.1
+[13: 08: 14] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/app_pro/img_promotiotion_app HTTP/1.1 [status]: 304 [response-time]: 305.075 ms [client]: okhttp/3.12.1
+[13: 08: 14] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/user_app/get_user HTTP/1.1 [status]: 304 [response-time]: 568.707 ms [client]: okhttp/3.12.1
+[13: 08: 14] [ip]: ::ffff:192.168.1.64 - [method]: POST [url]: /api/v1/user_app/app_login HTTP/1.1 [status]: 200 [response-time]: 730.249 ms [client]: okhttp/3.12.1
+[13: 08: 14] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/app_pro/img_promotiotion_app HTTP/1.1 [status]: 304 [response-time]: 306.863 ms [client]: okhttp/3.12.1
+[13: 08: 14] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/user_app/get_user HTTP/1.1 [status]: 304 [response-time]: 590.718 ms [client]: okhttp/3.12.1
+[13: 08: 14] [ip]: ::ffff:192.168.1.20 - [method]: OPTIONS [url]: /api/v1/user/get_access HTTP/1.1 [status]: 200 [response-time]: 2.574 ms [client]: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
+[13: 25: 56] [ip]: ::ffff:192.168.1.20 - [method]: OPTIONS [url]: /api/v1/user/user_login HTTP/1.1 [status]: 200 [response-time]: 9.466 ms [client]: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
+[13: 25: 56] [ip]: ::ffff:192.168.1.20 - [method]: POST [url]: /api/v1/user/user_login HTTP/1.1 [status]: 200 [response-time]: 544.670 ms [client]: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
+[13: 25: 56] [ip]: ::ffff:192.168.1.20 - [method]: OPTIONS [url]: /api/v1/user/get_access HTTP/1.1 [status]: 200 [response-time]: 0.602 ms [client]: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
+[13: 25: 56] [ip]: ::ffff:192.168.1.20 - [method]: GET [url]: /api/v1/user/get_access HTTP/1.1 [status]: 200 [response-time]: 394.340 ms [client]: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
+[13: 25: 56] [ip]: ::ffff:192.168.1.20 - [method]: OPTIONS [url]: /api/v1/user/get_access HTTP/1.1 [status]: 200 [response-time]: 0.395 ms [client]: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
+[13: 25: 56] [ip]: ::ffff:192.168.1.20 - [method]: GET [url]: /api/v1/user/get_access HTTP/1.1 [status]: 304 [response-time]: 315.621 ms [client]: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
+[13: 25: 56] [ip]: ::ffff:192.168.1.20 - [method]: OPTIONS [url]: /api/v1/user/get_access HTTP/1.1 [status]: 200 [response-time]: 0.263 ms [client]: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
+[13: 25: 56] [ip]: ::ffff:192.168.1.20 - [method]: GET [url]: /api/v1/user/get_access HTTP/1.1 [status]: 304 [response-time]: 292.703 ms [client]: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
+[13: 25: 56] [ip]: ::ffff:192.168.1.20 - [method]: OPTIONS [url]: /api/v1/user/get_access HTTP/1.1 [status]: 200 [response-time]: 0.295 ms [client]: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
+[13: 25: 56] [ip]: ::ffff:192.168.1.20 - [method]: GET [url]: /api/v1/user/get_access HTTP/1.1 [status]: 304 [response-time]: 292.904 ms [client]: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
+[13: 25: 56] [ip]: ::ffff:192.168.1.20 - [method]: OPTIONS [url]: /api/v1/user/get_access HTTP/1.1 [status]: 200 [response-time]: 0.263 ms [client]: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
+[13: 25: 56] [ip]: ::ffff:192.168.1.20 - [method]: GET [url]: /api/v1/user/get_access HTTP/1.1 [status]: 304 [response-time]: 331.458 ms [client]: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
+[14: 16: 19] [ip]: ::ffff:192.168.1.64 - [method]: POST [url]: /api/v1/user_app/app_login HTTP/1.1 [status]: 200 [response-time]: 837.768 ms [client]: okhttp/3.12.1
+[14: 16: 19] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/app_pro/img_promotiotion_app HTTP/1.1 [status]: 304 [response-time]: 308.151 ms [client]: okhttp/3.12.1
+[14: 16: 19] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/user_app/get_user HTTP/1.1 [status]: 304 [response-time]: 504.711 ms [client]: okhttp/3.12.1
+[14: 16: 19] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/app/notification_mem HTTP/1.1 [status]: 200 [response-time]: 404.710 ms [client]: okhttp/3.12.1
+[14: 16: 19] [ip]: ::ffff:192.168.1.64 - [method]: POST [url]: /api/v1/user_app/app_login HTTP/1.1 [status]: 200 [response-time]: 449.388 ms [client]: okhttp/3.12.1
+[14: 16: 19] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/app_pro/img_promotiotion_app HTTP/1.1 [status]: 304 [response-time]: 307.766 ms [client]: okhttp/3.12.1
+[14: 16: 19] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/user_app/get_user HTTP/1.1 [status]: 304 [response-time]: 605.037 ms [client]: okhttp/3.12.1
+[14: 16: 19] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/app/notification_mem HTTP/1.1 [status]: 304 [response-time]: 307.383 ms [client]: okhttp/3.12.1
+[14: 34: 30] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/app_pro/img_promotiotion_app HTTP/1.1 [status]: 304 [response-time]: 291.786 ms [client]: okhttp/3.12.1
+[14: 34: 30] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/app/notification_mem HTTP/1.1 [status]: 304 [response-time]: 579.970 ms [client]: okhttp/3.12.1
+[14: 34: 30] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/app/get_gym HTTP/1.1 [status]: 200 [response-time]: 692.663 ms [client]: okhttp/3.12.1
+[14: 34: 30] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/app_pro/img_promotiotion_app HTTP/1.1 [status]: 304 [response-time]: 997.548 ms [client]: okhttp/3.12.1
+[14: 34: 30] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/user_app/get_user HTTP/1.1 [status]: 304 [response-time]: 1304.629 ms [client]: okhttp/3.12.1
+[14: 34: 30] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/user_app/get_user HTTP/1.1 [status]: 304 [response-time]: 1459.688 ms [client]: okhttp/3.12.1
+[14: 34: 30] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/app_pro/img_promotiotion_app HTTP/1.1 [status]: 304 [response-time]: 294.450 ms [client]: okhttp/3.12.1
+[14: 34: 30] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/user_app/get_user HTTP/1.1 [status]: 304 [response-time]: 600.446 ms [client]: okhttp/3.12.1
+[14: 34: 30] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/user_app/get_user HTTP/1.1 [status]: 304 [response-time]: 312.422 ms [client]: okhttp/3.12.1
+[14: 34: 30] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/app_pro/img_promotiotion_app HTTP/1.1 [status]: 304 [response-time]: 617.377 ms [client]: okhttp/3.12.1
+[14: 34: 30] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/app/check_payment HTTP/1.1 [status]: 200 [response-time]: 316.379 ms [client]: okhttp/3.12.1
+[14: 34: 30] [ip]: ::ffff:192.168.1.64 - [method]: POST [url]: /api/v1/app/get_payment_detail HTTP/1.1 [status]: 200 [response-time]: 363.492 ms [client]: okhttp/3.12.1
+[14: 34: 30] [ip]: ::ffff:192.168.1.64 - [method]: POST [url]: /api/v1/app/get_payment HTTP/1.1 [status]: 200 [response-time]: 675.422 ms [client]: okhttp/3.12.1
+[14: 34: 30] [ip]: ::ffff:192.168.1.64 - [method]: POST [url]: /api/v1/app/get_payment HTTP/1.1 [status]: 200 [response-time]: 299.723 ms [client]: okhttp/3.12.1
+[14: 34: 30] [ip]: ::ffff:192.168.1.64 - [method]: POST [url]: /api/v1/app/get_payment_detail HTTP/1.1 [status]: 200 [response-time]: 605.851 ms [client]: okhttp/3.12.1
+[14: 34: 30] [ip]: ::ffff:192.168.1.64 - [method]: POST [url]: /api/v1/app/get_payment HTTP/1.1 [status]: 200 [response-time]: 341.282 ms [client]: okhttp/3.12.1
+[14: 34: 30] [ip]: ::ffff:192.168.1.64 - [method]: POST [url]: /api/v1/app/get_payment_detail HTTP/1.1 [status]: 200 [response-time]: 682.223 ms [client]: okhttp/3.12.1
+[14: 34: 30] [ip]: ::ffff:192.168.1.64 - [method]: POST [url]: /api/v1/app/get_payment HTTP/1.1 [status]: 200 [response-time]: 289.401 ms [client]: okhttp/3.12.1
+[14: 34: 30] [ip]: ::ffff:192.168.1.64 - [method]: POST [url]: /api/v1/app/get_payment_detail HTTP/1.1 [status]: 200 [response-time]: 596.294 ms [client]: okhttp/3.12.1
+[15: 08: 31] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/app/check_payment HTTP/1.1 [status]: 304 [response-time]: 395.885 ms [client]: okhttp/3.12.1
+[15: 41: 12] [ip]: ::ffff:192.168.1.43 - [method]: POST [url]: /api/v1/pos/register HTTP/1.1 [status]: 200 [response-time]: 1897.834 ms [client]: Dalvik/2.1.0 (Linux; U; Android 7.0; CS10C Build/NRD90M)
+[15: 51: 04] [ip]: ::ffff:192.168.1.43 - [method]: GET [url]: /api/v1/pos/show_user HTTP/1.1 [status]: 200 [response-time]: 292.053 ms [client]: Dalvik/2.1.0 (Linux; U; Android 7.0; CS10C Build/NRD90M)
+[15: 51: 04] [ip]: ::ffff:192.168.1.64 - [method]: POST [url]: /api/v1/user_app/app_login HTTP/1.1 [status]: 200 [response-time]: 591.991 ms [client]: okhttp/3.12.1
+[15: 51: 04] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/app_pro/img_promotiotion_app HTTP/1.1 [status]: 304 [response-time]: 303.492 ms [client]: okhttp/3.12.1
+[15: 51: 04] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/user_app/get_user HTTP/1.1 [status]: 304 [response-time]: 605.559 ms [client]: okhttp/3.12.1
+[15: 51: 04] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/app/notification_mem HTTP/1.1 [status]: 304 [response-time]: 272.731 ms [client]: okhttp/3.12.1
+[15: 51: 04] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/app_pro/img_promotiotion_app HTTP/1.1 [status]: 304 [response-time]: 271.442 ms [client]: okhttp/3.12.1
+[15: 51: 04] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/user_app/get_user HTTP/1.1 [status]: 304 [response-time]: 506.457 ms [client]: okhttp/3.12.1
+[15: 51: 04] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/app/check_payment HTTP/1.1 [status]: 304 [response-time]: 271.807 ms [client]: okhttp/3.12.1
+[15: 51: 04] [ip]: ::ffff:192.168.1.64 - [method]: POST [url]: /api/v1/app/get_payment HTTP/1.1 [status]: 200 [response-time]: 271.642 ms [client]: okhttp/3.12.1
+[15: 51: 04] [ip]: ::ffff:192.168.1.64 - [method]: POST [url]: /api/v1/app/get_payment_detail HTTP/1.1 [status]: 200 [response-time]: 534.818 ms [client]: okhttp/3.12.1
+[15: 51: 04] [ip]: ::ffff:192.168.1.64 - [method]: POST [url]: /api/v1/app/get_payment_detail HTTP/1.1 [status]: 200 [response-time]: 271.727 ms [client]: okhttp/3.12.1
+[15: 51: 04] [ip]: ::ffff:192.168.1.64 - [method]: POST [url]: /api/v1/app/get_payment HTTP/1.1 [status]: 200 [response-time]: 538.201 ms [client]: okhttp/3.12.1
+[15: 51: 04] [ip]: ::ffff:192.168.1.64 - [method]: POST [url]: /api/v1/app/get_payment HTTP/1.1 [status]: 200 [response-time]: 271.379 ms [client]: okhttp/3.12.1
+[15: 51: 04] [ip]: ::ffff:192.168.1.64 - [method]: POST [url]: /api/v1/app/get_payment_detail HTTP/1.1 [status]: 200 [response-time]: 529.878 ms [client]: okhttp/3.12.1
+[16: 07: 31] [ip]: ::ffff:192.168.1.64 - [method]: POST [url]: /api/v1/user_app/app_login HTTP/1.1 [status]: 200 [response-time]: 353.527 ms [client]: okhttp/3.12.1
+[16: 07: 31] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/app_pro/img_promotiotion_app HTTP/1.1 [status]: 304 [response-time]: 266.981 ms [client]: okhttp/3.12.1
+[16: 07: 31] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/user_app/get_user HTTP/1.1 [status]: 304 [response-time]: 396.293 ms [client]: okhttp/3.12.1
+[16: 07: 31] [ip]: ::ffff:192.168.1.64 - [method]: POST [url]: /api/v1/user_app/app_login HTTP/1.1 [status]: 200 [response-time]: 336.706 ms [client]: okhttp/3.12.1
+[16: 07: 31] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/app_pro/img_promotiotion_app HTTP/1.1 [status]: 304 [response-time]: 266.123 ms [client]: okhttp/3.12.1
+[16: 07: 31] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/user_app/get_user HTTP/1.1 [status]: 304 [response-time]: 498.939 ms [client]: okhttp/3.12.1
+[16: 07: 31] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/app/check_payment HTTP/1.1 [status]: 304 [response-time]: 266.957 ms [client]: okhttp/3.12.1
+[16: 07: 31] [ip]: ::ffff:192.168.1.64 - [method]: POST [url]: /api/v1/app/get_payment HTTP/1.1 [status]: 200 [response-time]: 267.437 ms [client]: okhttp/3.12.1
+[16: 07: 31] [ip]: ::ffff:192.168.1.64 - [method]: POST [url]: /api/v1/app/get_payment_detail HTTP/1.1 [status]: 200 [response-time]: 529.981 ms [client]: okhttp/3.12.1
+[16: 35: 04] [ip]: ::ffff:192.168.1.64 - [method]: POST [url]: /api/v1/user_app/app_login HTTP/1.1 [status]: 200 [response-time]: 816.007 ms [client]: okhttp/3.12.1
+[16: 35: 04] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/app_pro/img_promotiotion_app HTTP/1.1 [status]: 304 [response-time]: 285.648 ms [client]: okhttp/3.12.1
+[16: 35: 04] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/user_app/get_user HTTP/1.1 [status]: 200 [response-time]: 472.898 ms [client]: okhttp/3.12.1
+[16: 35: 04] [ip]: ::ffff:192.168.1.64 - [method]: POST [url]: /api/v1/user_app/app_login HTTP/1.1 [status]: 200 [response-time]: 347.124 ms [client]: okhttp/3.12.1
+[16: 35: 04] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/app_pro/img_promotiotion_app HTTP/1.1 [status]: 304 [response-time]: 280.911 ms [client]: okhttp/3.12.1
+[16: 35: 04] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/user_app/get_user HTTP/1.1 [status]: 304 [response-time]: 534.316 ms [client]: okhttp/3.12.1
+[16: 35: 04] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/undefined HTTP/1.1 [status]: 404 [response-time]: 1.020 ms [client]: okhttp/3.12.1
+[16: 35: 04] [ip]: ::ffff:192.168.1.64 - [method]: POST [url]: /api/v1/app_pro/get_promotion_app HTTP/1.1 [status]: 200 [response-time]: 281.969 ms [client]: okhttp/3.12.1
+[16: 35: 04] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/app/notification_book HTTP/1.1 [status]: 200 [response-time]: 281.606 ms [client]: okhttp/3.12.1
+[16: 35: 04] [ip]: ::ffff:192.168.1.64 - [method]: POST [url]: /api/v1/user_app/app_login HTTP/1.1 [status]: 200 [response-time]: 347.141 ms [client]: okhttp/3.12.1
+[16: 35: 04] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/app_pro/img_promotiotion_app HTTP/1.1 [status]: 304 [response-time]: 280.476 ms [client]: okhttp/3.12.1
+[16: 35: 04] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/user_app/get_user HTTP/1.1 [status]: 200 [response-time]: 479.372 ms [client]: okhttp/3.12.1
+[16: 35: 04] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/app/check_payment HTTP/1.1 [status]: 304 [response-time]: 281.253 ms [client]: okhttp/3.12.1
+[16: 35: 04] [ip]: ::ffff:192.168.1.64 - [method]: POST [url]: /api/v1/app/get_payment HTTP/1.1 [status]: 200 [response-time]: 281.911 ms [client]: okhttp/3.12.1
+[16: 35: 04] [ip]: ::ffff:192.168.1.64 - [method]: POST [url]: /api/v1/app/get_payment_detail HTTP/1.1 [status]: 200 [response-time]: 559.722 ms [client]: okhttp/3.12.1
+[17: 19: 32] [ip]: ::ffff:192.168.137.207 - [method]: POST [url]: /api/v1/user_app/app_login HTTP/1.1 [status]: 200 [response-time]: 401.930 ms [client]: okhttp/3.12.1
+[17: 19: 32] [ip]: ::ffff:192.168.137.207 - [method]: GET [url]: /api/v1/app_pro/img_promotiotion_app HTTP/1.1 [status]: 304 [response-time]: 346.833 ms [client]: okhttp/3.12.1
+[17: 19: 32] [ip]: ::ffff:192.168.137.207 - [method]: GET [url]: /api/v1/user_app/get_user HTTP/1.1 [status]: 304 [response-time]: 311.740 ms [client]: okhttp/3.12.1
+[17: 19: 32] [ip]: ::ffff:192.168.137.207 - [method]: GET [url]: /api/v1/app/check_payment HTTP/1.1 [status]: 304 [response-time]: 348.942 ms [client]: okhttp/3.12.1
+[17: 53: 15] [ip]: ::ffff:192.168.137.55 - [method]: POST [url]: /api/v1/user_app/app_login HTTP/1.1 [status]: 200 [response-time]: 434.166 ms [client]: okhttp/3.12.1
+[17: 53: 15] [ip]: ::ffff:192.168.137.55 - [method]: GET [url]: /api/v1/app_pro/img_promotiotion_app HTTP/1.1 [status]: 304 [response-time]: 369.161 ms [client]: okhttp/3.12.1
+[17: 53: 15] [ip]: ::ffff:192.168.137.55 - [method]: GET [url]: /api/v1/user_app/get_user HTTP/1.1 [status]: 304 [response-time]: 365.449 ms [client]: okhttp/3.12.1
+[17: 53: 15] [ip]: ::ffff:192.168.137.55 - [method]: GET [url]: /api/v1/app/check_payment HTTP/1.1 [status]: 304 [response-time]: 353.606 ms [client]: okhttp/3.12.1
+[17: 53: 15] [ip]: ::ffff:192.168.137.55 - [method]: POST [url]: /api/v1/app/get_payment HTTP/1.1 [status]: 200 [response-time]: 368.758 ms [client]: okhttp/3.12.1
+[17: 53: 15] [ip]: ::ffff:192.168.137.55 - [method]: POST [url]: /api/v1/app/get_payment_detail HTTP/1.1 [status]: 200 [response-time]: 672.569 ms [client]: okhttp/3.12.1
+[18: 26: 12] [ip]: ::ffff:192.168.137.55 - [method]: POST [url]: /api/v1/user_app/app_login HTTP/1.1 [status]: 200 [response-time]: 460.690 ms [client]: okhttp/3.12.1
+[18: 26: 12] [ip]: ::ffff:192.168.137.55 - [method]: GET [url]: /api/v1/app_pro/img_promotiotion_app HTTP/1.1 [status]: 304 [response-time]: 321.424 ms [client]: okhttp/3.12.1
+[18: 26: 12] [ip]: ::ffff:192.168.137.55 - [method]: GET [url]: /api/v1/user_app/get_user HTTP/1.1 [status]: 304 [response-time]: 463.616 ms [client]: okhttp/3.12.1
+[18: 26: 12] [ip]: ::ffff:192.168.137.55 - [method]: GET [url]: /api/v1/app/check_payment HTTP/1.1 [status]: 304 [response-time]: 366.811 ms [client]: okhttp/3.12.1
+[18: 26: 12] [ip]: ::ffff:192.168.137.55 - [method]: POST [url]: /api/v1/app/get_payment HTTP/1.1 [status]: 200 [response-time]: 309.622 ms [client]: okhttp/3.12.1
+[18: 26: 12] [ip]: ::ffff:192.168.137.55 - [method]: POST [url]: /api/v1/app/get_payment_detail HTTP/1.1 [status]: 200 [response-time]: 614.322 ms [client]: okhttp/3.12.1
+[18: 26: 12] [ip]: ::ffff:192.168.137.55 - [method]: POST [url]: /api/v1/user_app/app_login HTTP/1.1 [status]: 200 [response-time]: 369.378 ms [client]: okhttp/3.12.1
+[18: 26: 12] [ip]: ::ffff:192.168.137.55 - [method]: GET [url]: /api/v1/app_pro/img_promotiotion_app HTTP/1.1 [status]: 304 [response-time]: 302.333 ms [client]: okhttp/3.12.1
+[18: 26: 12] [ip]: ::ffff:192.168.137.55 - [method]: GET [url]: /api/v1/user_app/get_user HTTP/1.1 [status]: 304 [response-time]: 1367.297 ms [client]: okhttp/3.12.1
+[18: 26: 12] [ip]: ::ffff:192.168.137.55 - [method]: GET [url]: /api/v1/app/check_payment HTTP/1.1 [status]: 304 [response-time]: 300.825 ms [client]: okhttp/3.12.1
+[18: 26: 12] [ip]: ::ffff:192.168.137.55 - [method]: POST [url]: /api/v1/app/get_payment HTTP/1.1 [status]: 200 [response-time]: 300.818 ms [client]: okhttp/3.12.1
+[18: 26: 12] [ip]: ::ffff:192.168.137.55 - [method]: POST [url]: /api/v1/app/get_payment_detail HTTP/1.1 [status]: 200 [response-time]: 596.436 ms [client]: okhttp/3.12.1
+[18: 45: 31] [ip]: ::ffff:192.168.137.55 - [method]: POST [url]: /api/v1/app/get_payment HTTP/1.1 [status]: 200 [response-time]: 324.004 ms [client]: okhttp/3.12.1
+[18: 45: 31] [ip]: ::ffff:192.168.137.55 - [method]: POST [url]: /api/v1/app/get_payment_detail HTTP/1.1 [status]: 200 [response-time]: 648.250 ms [client]: okhttp/3.12.1
+[18: 45: 31] [ip]: ::ffff:192.168.137.55 - [method]: POST [url]: /api/v1/app/get_payment HTTP/1.1 [status]: 200 [response-time]: 317.622 ms [client]: okhttp/3.12.1
+[18: 45: 31] [ip]: ::ffff:192.168.137.55 - [method]: POST [url]: /api/v1/app/get_payment_detail HTTP/1.1 [status]: 200 [response-time]: 642.632 ms [client]: okhttp/3.12.1
+[18: 45: 31] [ip]: ::ffff:192.168.137.55 - [method]: GET [url]: /api/v1/user_app/get_user HTTP/1.1 [status]: 304 [response-time]: 330.447 ms [client]: okhttp/3.12.1
+[18: 45: 31] [ip]: ::ffff:192.168.137.55 - [method]: GET [url]: /api/v1/app/show_account HTTP/1.1 [status]: 304 [response-time]: 658.173 ms [client]: okhttp/3.12.1
+[18: 45: 31] [ip]: ::ffff:192.168.137.55 - [method]: GET [url]: /api/v1/user_app/image/user_3.png?code=1576410605191 HTTP/1.1 [status]: 200 [response-time]: 22.352 ms [client]: okhttp/3.12.1
+[18: 45: 31] [ip]: ::ffff:192.168.137.55 - [method]: GET [url]: /api/v1/user_app/image/user_3.png?code=1576410605534 HTTP/1.1 [status]: 200 [response-time]: 2.883 ms [client]: okhttp/3.12.1
+[18: 45: 31] [ip]: ::ffff:192.168.137.55 - [method]: GET [url]: /api/v1/user_app/get_user_update HTTP/1.1 [status]: 200 [response-time]: 327.166 ms [client]: okhttp/3.12.1
+[18: 45: 31] [ip]: ::ffff:192.168.137.55 - [method]: GET [url]: /api/v1/user_app/image/user_3.png?code=1576410611846 HTTP/1.1 [status]: 200 [response-time]: 2.792 ms [client]: okhttp/3.12.1
+[18: 53: 53] [ip]: ::ffff:192.168.137.55 - [method]: GET [url]: /api/v1/app/check_payment HTTP/1.1 [status]: 200 [response-time]: 335.288 ms [client]: okhttp/3.12.1
+[18: 53: 53] [ip]: ::ffff:192.168.137.55 - [method]: POST [url]: /api/v1/app/get_payment HTTP/1.1 [status]: 200 [response-time]: 320.321 ms [client]: okhttp/3.12.1
+[18: 53: 53] [ip]: ::ffff:192.168.137.55 - [method]: POST [url]: /api/v1/app/get_payment_detail HTTP/1.1 [status]: 200 [response-time]: 634.820 ms [client]: okhttp/3.12.1

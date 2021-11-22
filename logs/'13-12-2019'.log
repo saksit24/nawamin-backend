@@ -1,0 +1,13 @@
+[15: 39: 21] [ip]: ::ffff:192.168.137.195 - [method]: POST [url]: /api/v1/user_app/app_login HTTP/1.1 [status]: 200 [response-time]: 415.812 ms [client]: okhttp/3.12.1
+[15: 39: 21] [ip]: ::ffff:192.168.137.195 - [method]: GET [url]: /api/v1/app_pro/img_promotiotion_app HTTP/1.1 [status]: 304 [response-time]: 312.686 ms [client]: okhttp/3.12.1
+[15: 39: 21] [ip]: ::ffff:192.168.137.195 - [method]: GET [url]: /api/v1/user_app/get_user HTTP/1.1 [status]: 200 [response-time]: 416.959 ms [client]: okhttp/3.12.1
+[15: 39: 21] [ip]: ::ffff:192.168.137.195 - [method]: GET [url]: /api/v1/app/notification_book HTTP/1.1 [status]: 304 [response-time]: 314.947 ms [client]: okhttp/3.12.1
+[15: 51: 13] [ip]: ::ffff:192.168.137.195 - [method]: GET [url]: /api/v1/undefined HTTP/1.1 [status]: 404 [response-time]: 1.525 ms [client]: okhttp/3.12.1
+[15: 51: 13] [ip]: ::ffff:192.168.137.195 - [method]: GET [url]: /api/v1/user_app/get_train HTTP/1.1 [status]: 304 [response-time]: 324.650 ms [client]: okhttp/3.12.1
+[15: 51: 13] [ip]: ::ffff:192.168.137.195 - [method]: GET [url]: /api/v1/course/get_all HTTP/1.1 [status]: 304 [response-time]: 410.370 ms [client]: okhttp/3.12.1
+[15: 51: 13] [ip]: ::ffff:192.168.137.195 - [method]: GET [url]: /api/v1/course/all_course HTTP/1.1 [status]: 304 [response-time]: 718.945 ms [client]: okhttp/3.12.1
+[15: 51: 13] [ip]: ::ffff:192.168.137.195 - [method]: GET [url]: /api/v1/app_pro/get_all_promotion_app HTTP/1.1 [status]: 304 [response-time]: 323.779 ms [client]: okhttp/3.12.1
+[15: 51: 13] [ip]: ::ffff:192.168.137.195 - [method]: GET [url]: /api/v1/course/get_all HTTP/1.1 [status]: 304 [response-time]: 386.846 ms [client]: okhttp/3.12.1
+[15: 51: 13] [ip]: ::ffff:192.168.137.195 - [method]: GET [url]: /api/v1/course/all_course HTTP/1.1 [status]: 304 [response-time]: 681.091 ms [client]: okhttp/3.12.1
+[15: 51: 13] [ip]: ::ffff:192.168.137.195 - [method]: GET [url]: /api/v1/undefined HTTP/1.1 [status]: 404 [response-time]: 0.269 ms [client]: okhttp/3.12.1
+[15: 51: 13] [ip]: ::ffff:192.168.137.195 - [method]: POST [url]: /api/v1/app_pro/get_promotion_app HTTP/1.1 [status]: 200 [response-time]: 338.351 ms [client]: okhttp/3.12.1

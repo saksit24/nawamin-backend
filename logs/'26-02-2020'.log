@@ -1,0 +1,2 @@
+[13: 25: 01] [ip]: ::ffff:127.0.0.1 - [method]: OPTIONS [url]: /api/v1/user/login HTTP/1.1 [status]: 200 [response-time]: 11.609 ms [client]: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.122 Safari/537.36
+[13: 25: 01] [ip]: ::ffff:127.0.0.1 - [method]: POST [url]: /api/v1/user/login HTTP/1.1 [status]: 200 [response-time]: 231.132 ms [client]: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.122 Safari/537.36

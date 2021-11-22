@@ -1,0 +1,52 @@
+[15: 46: 34] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/app_pro/img_promotiotion_app HTTP/1.1 [status]: 200 [response-time]: 16.250 ms [client]: okhttp/3.12.1
+[15: 46: 34] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/promotion/image/promotion_19.png HTTP/1.1 [status]: 200 [response-time]: 24.199 ms [client]: okhttp/3.12.1
+[15: 46: 34] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/promotion/image/promotion_17.png HTTP/1.1 [status]: 200 [response-time]: 10.343 ms [client]: okhttp/3.12.1
+[15: 46: 34] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/promotion/image/promotion_18.png HTTP/1.1 [status]: 200 [response-time]: 16.393 ms [client]: okhttp/3.12.1
+[15: 46: 34] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/app_pro/get_all_promotion_app HTTP/1.1 [status]: 200 [response-time]: 1.317 ms [client]: okhttp/3.12.1
+[15: 46: 34] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/promotion/image/promotion_20.png HTTP/1.1 [status]: 200 [response-time]: 114.666 ms [client]: okhttp/3.12.1
+[15: 46: 34] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/promotion/image/promotion_22.png HTTP/1.1 [status]: 200 [response-time]: 128.309 ms [client]: okhttp/3.12.1
+[16: 38: 32] [ip]: ::1 - [method]: POST [url]: /api/v1/user/writehex HTTP/1.1 [status]: 200 [response-time]: 4.777 ms [client]: PostmanRuntime/7.18.0
+[16: 38: 32] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/app_pro/img_promotiotion_app HTTP/1.1 [status]: 304 [response-time]: 2.773 ms [client]: okhttp/3.12.1
+[16: 38: 32] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/app_pro/get_all_promotion_app HTTP/1.1 [status]: 304 [response-time]: 0.946 ms [client]: okhttp/3.12.1
+[16: 38: 32] [ip]: ::ffff:192.168.1.64 - [method]: POST [url]: /api/v1/app_pro/get_promotion_app HTTP/1.1 [status]: 200 [response-time]: 3.649 ms [client]: okhttp/3.12.1
+[16: 38: 32] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/undefined HTTP/1.1 [status]: 404 [response-time]: 1.037 ms [client]: okhttp/3.12.1
+[16: 38: 32] [ip]: ::ffff:192.168.1.64 - [method]: POST [url]: /api/v1/app_pro/get_promotion_app HTTP/1.1 [status]: 200 [response-time]: 1.702 ms [client]: okhttp/3.12.1
+[16: 38: 32] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/undefined HTTP/1.1 [status]: 404 [response-time]: 0.190 ms [client]: okhttp/3.12.1
+[16: 45: 44] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/app_pro/img_promotiotion_app HTTP/1.1 [status]: 200 [response-time]: 4.320 ms [client]: okhttp/3.12.1
+[18: 09: 38] [ip]: ::1 - [method]: GET [url]: /api/v1/course/get_mon HTTP/1.1 [status]: 200 [response-time]: 4.623 ms [client]: PostmanRuntime/7.18.0
+[18: 09: 38] [ip]: ::1 - [method]: GET [url]: /api/v1/course/get_tue HTTP/1.1 [status]: 200 [response-time]: 1.036 ms [client]: PostmanRuntime/7.18.0
+[18: 17: 27] [ip]: ::1 - [method]: GET [url]: /api/v1/course/get_mon HTTP/1.1 [status]: 200 [response-time]: 5.408 ms [client]: PostmanRuntime/7.18.0
+[18: 18: 29] [ip]: ::1 - [method]: GET [url]: /api/v1/course/get_mon HTTP/1.1 [status]: 200 [response-time]: 6.389 ms [client]: PostmanRuntime/7.18.0
+[18: 18: 29] [ip]: ::1 - [method]: GET [url]: /api/v1/course/get_mon HTTP/1.1 [status]: 200 [response-time]: 0.978 ms [client]: PostmanRuntime/7.18.0
+[18: 19: 56] [ip]: ::1 - [method]: GET [url]: /api/v1/course/get_mon HTTP/1.1 [status]: 200 [response-time]: 5.363 ms [client]: PostmanRuntime/7.18.0
+[18: 21: 31] [ip]: ::1 - [method]: GET [url]: /api/v1/course/get_all HTTP/1.1 [status]: 200 [response-time]: 5.189 ms [client]: PostmanRuntime/7.18.0
+[18: 21: 31] [ip]: ::1 - [method]: GET [url]: /api/v1/course/get_mon HTTP/1.1 [status]: 200 [response-time]: 0.886 ms [client]: PostmanRuntime/7.18.0
+[18: 21: 31] [ip]: ::1 - [method]: GET [url]: /api/v1/course/get_tue HTTP/1.1 [status]: 200 [response-time]: 1.112 ms [client]: PostmanRuntime/7.18.0
+[18: 25: 30] [ip]: ::1 - [method]: GET [url]: /api/v1/course/get_tue HTTP/1.1 [status]: 200 [response-time]: 4.160 ms [client]: PostmanRuntime/7.18.0
+[18: 26: 18] [ip]: ::1 - [method]: GET [url]: /api/v1/course/get_mon HTTP/1.1 [status]: 200 [response-time]: 4.112 ms [client]: PostmanRuntime/7.18.0
+[18: 26: 18] [ip]: ::ffff:192.168.1.20 - [method]: GET [url]: /api/v1/pos/register HTTP/1.1 [status]: 404 [response-time]: 1.081 ms [client]: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36
+[18: 26: 18] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/course/get_mon HTTP/1.1 [status]: 200 [response-time]: 1.036 ms [client]: okhttp/3.12.1
+[18: 26: 18] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/course/get_mon HTTP/1.1 [status]: 304 [response-time]: 0.767 ms [client]: okhttp/3.12.1
+[18: 26: 18] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/course/get_mon HTTP/1.1 [status]: 304 [response-time]: 0.745 ms [client]: okhttp/3.12.1
+[18: 26: 18] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/course/get_mon HTTP/1.1 [status]: 200 [response-time]: 0.586 ms [client]: okhttp/3.12.1
+[18: 26: 18] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/course/get_mon HTTP/1.1 [status]: 200 [response-time]: 0.432 ms [client]: okhttp/3.12.1
+[18: 26: 18] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/course/get_mon HTTP/1.1 [status]: 200 [response-time]: 0.689 ms [client]: okhttp/3.12.1
+[18: 26: 18] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/course/get_mon HTTP/1.1 [status]: 200 [response-time]: 0.819 ms [client]: okhttp/3.12.1
+[18: 26: 18] [ip]: ::ffff:192.168.1.43 - [method]: POST [url]: /api/v1/pos/register HTTP/1.1 [status]: 500 [response-time]: 1.231 ms [client]: Dalvik/2.1.0 (Linux; U; Android 7.0; CS10C Build/NRD90M)
+[19: 10: 33] [ip]: ::1 - [method]: POST [url]: /api/v1/pos/register HTTP/1.1 [status]: 200 [response-time]: 94.113 ms [client]: PostmanRuntime/7.18.0
+[19: 10: 33] [ip]: ::1 - [method]: POST [url]: /api/v1/pos/register HTTP/1.1 [status]: 200 [response-time]: 77.896 ms [client]: PostmanRuntime/7.18.0
+[19: 10: 33] [ip]: ::1 - [method]: POST [url]: /api/v1/pos/register HTTP/1.1 [status]: 200 [response-time]: 70.688 ms [client]: PostmanRuntime/7.18.0
+[19: 16: 07] [ip]: ::1 - [method]: POST [url]: /api/v1/pos/register HTTP/1.1 [status]: 200 [response-time]: 93.095 ms [client]: PostmanRuntime/7.18.0
+[19: 29: 21] [ip]: ::ffff:192.168.1.43 - [method]: POST [url]: /api/v1/pos/register HTTP/1.1 [status]: 200 [response-time]: 85.216 ms [client]: Dalvik/2.1.0 (Linux; U; Android 7.0; CS10C Build/NRD90M)
+[19: 29: 21] [ip]: ::ffff:192.168.1.43 - [method]: POST [url]: /api/v1/pos/register HTTP/1.1 [status]: 200 [response-time]: 71.706 ms [client]: Dalvik/2.1.0 (Linux; U; Android 7.0; CS10C Build/NRD90M)
+[19: 31: 22] [ip]: ::ffff:192.168.1.43 - [method]: POST [url]: /api/v1/pos/register HTTP/1.1 [status]: 200 [response-time]: 85.811 ms [client]: Dalvik/2.1.0 (Linux; U; Android 7.0; CS10C Build/NRD90M)
+[19: 32: 59] [ip]: ::ffff:192.168.1.43 - [method]: POST [url]: /api/v1/pos/register HTTP/1.1 [status]: 200 [response-time]: 144.840 ms [client]: Dalvik/2.1.0 (Linux; U; Android 7.0; CS10C Build/NRD90M)
+[19: 34: 28] [ip]: ::ffff:192.168.1.43 - [method]: POST [url]: /api/v1/pos/register HTTP/1.1 [status]: 500 [response-time]: 82.699 ms [client]: Dalvik/2.1.0 (Linux; U; Android 7.0; CS10C Build/NRD90M)
+[19: 35: 58] [ip]: ::ffff:192.168.1.43 - [method]: POST [url]: /api/v1/pos/register HTTP/1.1 [status]: 200 [response-time]: 93.772 ms [client]: Dalvik/2.1.0 (Linux; U; Android 7.0; CS10C Build/NRD90M)
+[19: 38: 18] [ip]: ::ffff:192.168.1.43 - [method]: POST [url]: /api/v1/pos/register HTTP/1.1 [status]: 200 [response-time]: 91.603 ms [client]: Dalvik/2.1.0 (Linux; U; Android 7.0; CS10C Build/NRD90M)
+[19: 39: 43] [ip]: ::ffff:192.168.1.43 - [method]: POST [url]: /api/v1/pos/register HTTP/1.1 [status]: 200 [response-time]: 85.676 ms [client]: Dalvik/2.1.0 (Linux; U; Android 7.0; CS10C Build/NRD90M)
+[19: 39: 43] [ip]: ::ffff:192.168.1.43 - [method]: POST [url]: /api/v1/pos/register HTTP/1.1 [status]: 200 [response-time]: 73.542 ms [client]: Dalvik/2.1.0 (Linux; U; Android 7.0; CS10C Build/NRD90M)
+[19: 41: 20] [ip]: ::ffff:192.168.1.43 - [method]: POST [url]: /api/v1/pos/register HTTP/1.1 [status]: 200 [response-time]: 87.490 ms [client]: Dalvik/2.1.0 (Linux; U; Android 7.0; CS10C Build/NRD90M)
+[19: 42: 02] [ip]: ::ffff:192.168.1.43 - [method]: POST [url]: /api/v1/pos/register HTTP/1.1 [status]: 200 [response-time]: 101.880 ms [client]: Dalvik/2.1.0 (Linux; U; Android 7.0; CS10C Build/NRD90M)
+[19: 42: 02] [ip]: ::ffff:192.168.1.43 - [method]: POST [url]: /api/v1/pos/register HTTP/1.1 [status]: 200 [response-time]: 72.087 ms [client]: Dalvik/2.1.0 (Linux; U; Android 7.0; CS10C Build/NRD90M)
+[19: 49: 04] [ip]: ::ffff:192.168.1.43 - [method]: POST [url]: /api/v1/pos/register HTTP/1.1 [status]: 200 [response-time]: 86.459 ms [client]: Dalvik/2.1.0 (Linux; U; Android 7.0; CS10C Build/NRD90M)

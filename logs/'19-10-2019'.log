@@ -1,0 +1,488 @@
+[15: 27: 49] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/app_pro/img_promotiotion_app HTTP/1.1 [status]: 304 [response-time]: 49.384 ms [client]: okhttp/3.12.1
+[15: 27: 49] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/app_pro/get_all_promotion_app HTTP/1.1 [status]: 304 [response-time]: 6.428 ms [client]: okhttp/3.12.1
+[15: 27: 49] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/user_app/get_train HTTP/1.1 [status]: 200 [response-time]: 106.064 ms [client]: okhttp/3.12.1
+[15: 27: 49] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/course/get_all HTTP/1.1 [status]: 304 [response-time]: 28.752 ms [client]: okhttp/3.12.1
+[15: 27: 49] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/course/all_course HTTP/1.1 [status]: 304 [response-time]: 9.972 ms [client]: okhttp/3.12.1
+[15: 27: 49] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/app_pro/img_promotiotion_app HTTP/1.1 [status]: 304 [response-time]: 0.832 ms [client]: okhttp/3.12.1
+[15: 27: 49] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/undefined HTTP/1.1 [status]: 404 [response-time]: 0.841 ms [client]: okhttp/3.12.1
+[15: 27: 49] [ip]: ::ffff:192.168.1.64 - [method]: POST [url]: /api/v1/app_pro/get_promotion_app HTTP/1.1 [status]: 200 [response-time]: 20.538 ms [client]: okhttp/3.12.1
+[15: 27: 49] [ip]: ::ffff:192.168.1.20 - [method]: OPTIONS [url]: /api/v1/user/user_valid HTTP/1.1 [status]: 200 [response-time]: 1.083 ms [client]: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36
+[15: 27: 49] [ip]: ::ffff:192.168.1.20 - [method]: GET [url]: /api/v1/user/user_valid HTTP/1.1 [status]: 200 [response-time]: 0.386 ms [client]: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36
+[15: 27: 49] [ip]: ::ffff:192.168.1.20 - [method]: OPTIONS [url]: /api/v1/user/user_login HTTP/1.1 [status]: 200 [response-time]: 0.138 ms [client]: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36
+[15: 27: 49] [ip]: ::ffff:192.168.1.20 - [method]: POST [url]: /api/v1/user/user_login HTTP/1.1 [status]: 200 [response-time]: 93.273 ms [client]: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36
+[15: 27: 49] [ip]: ::ffff:192.168.1.20 - [method]: OPTIONS [url]: /api/v1/user/user_valid HTTP/1.1 [status]: 200 [response-time]: 0.124 ms [client]: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36
+[15: 27: 49] [ip]: ::ffff:192.168.1.20 - [method]: GET [url]: /api/v1/user/user_valid HTTP/1.1 [status]: 200 [response-time]: 1.762 ms [client]: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36
+[15: 27: 49] [ip]: ::ffff:192.168.1.20 - [method]: OPTIONS [url]: /api/v1/promotion/get_promotion HTTP/1.1 [status]: 200 [response-time]: 0.441 ms [client]: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36
+[15: 27: 49] [ip]: ::ffff:192.168.1.20 - [method]: GET [url]: /api/v1/promotion/get_promotion HTTP/1.1 [status]: 200 [response-time]: 0.776 ms [client]: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36
+[15: 27: 49] [ip]: ::ffff:192.168.1.20 - [method]: GET [url]: /api/v1/promotion/image/promotion_17.png HTTP/1.1 [status]: 200 [response-time]: 19.778 ms [client]: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36
+[15: 27: 49] [ip]: ::ffff:192.168.1.20 - [method]: GET [url]: /api/v1/promotion/image/promotion_18.png HTTP/1.1 [status]: 200 [response-time]: 27.183 ms [client]: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36
+[15: 27: 49] [ip]: ::ffff:192.168.1.20 - [method]: GET [url]: /api/v1/promotion/image/promotion_19.png HTTP/1.1 [status]: 200 [response-time]: 4.811 ms [client]: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36
+[15: 27: 49] [ip]: ::ffff:192.168.1.20 - [method]: GET [url]: /api/v1/promotion/image/promotion_20.png HTTP/1.1 [status]: 200 [response-time]: 10.493 ms [client]: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36
+[15: 27: 49] [ip]: ::ffff:192.168.1.20 - [method]: GET [url]: /api/v1/promotion/image/promotion_22.png HTTP/1.1 [status]: 200 [response-time]: 16.144 ms [client]: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36
+[15: 27: 49] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/user_app/get_train HTTP/1.1 [status]: 304 [response-time]: 1.451 ms [client]: okhttp/3.12.1
+[15: 27: 49] [ip]: ::ffff:192.168.1.20 - [method]: OPTIONS [url]: /api/v1/user/user_valid HTTP/1.1 [status]: 200 [response-time]: 0.166 ms [client]: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36
+[15: 27: 49] [ip]: ::ffff:192.168.1.20 - [method]: OPTIONS [url]: /api/v1/promotion/get_promotion HTTP/1.1 [status]: 200 [response-time]: 0.122 ms [client]: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36
+[15: 27: 49] [ip]: ::ffff:192.168.1.20 - [method]: GET [url]: /api/v1/user/user_valid HTTP/1.1 [status]: 304 [response-time]: 1.363 ms [client]: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36
+[15: 27: 49] [ip]: ::ffff:192.168.1.20 - [method]: GET [url]: /api/v1/promotion/get_promotion HTTP/1.1 [status]: 304 [response-time]: 0.679 ms [client]: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36
+[15: 27: 49] [ip]: ::ffff:192.168.1.20 - [method]: GET [url]: /api/v1/promotion/image/promotion_19.png HTTP/1.1 [status]: 304 [response-time]: 2.358 ms [client]: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36
+[15: 27: 49] [ip]: ::ffff:192.168.1.20 - [method]: GET [url]: /api/v1/promotion/image/promotion_20.png HTTP/1.1 [status]: 304 [response-time]: 1.488 ms [client]: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36
+[15: 27: 49] [ip]: ::ffff:192.168.1.20 - [method]: GET [url]: /api/v1/promotion/image/promotion_22.png HTTP/1.1 [status]: 304 [response-time]: 1.593 ms [client]: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36
+[15: 27: 49] [ip]: ::ffff:192.168.1.20 - [method]: GET [url]: /api/v1/promotion/image/promotion_18.png HTTP/1.1 [status]: 304 [response-time]: 2.090 ms [client]: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36
+[15: 27: 49] [ip]: ::ffff:192.168.1.20 - [method]: GET [url]: /api/v1/promotion/image/promotion_17.png HTTP/1.1 [status]: 304 [response-time]: 6.971 ms [client]: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36
+[15: 27: 49] [ip]: ::ffff:192.168.1.20 - [method]: OPTIONS [url]: /api/v1/product/get_product HTTP/1.1 [status]: 200 [response-time]: 0.535 ms [client]: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36
+[15: 27: 49] [ip]: ::ffff:192.168.1.20 - [method]: GET [url]: /api/v1/product/get_product HTTP/1.1 [status]: 200 [response-time]: 25.061 ms [client]: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36
+[15: 27: 49] [ip]: ::ffff:192.168.1.20 - [method]: OPTIONS [url]: /api/v1/user/user_valid HTTP/1.1 [status]: 200 [response-time]: 0.128 ms [client]: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36
+[15: 27: 49] [ip]: ::ffff:192.168.1.20 - [method]: GET [url]: /api/v1/user/user_valid HTTP/1.1 [status]: 304 [response-time]: 0.767 ms [client]: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36
+[15: 27: 49] [ip]: ::ffff:192.168.1.20 - [method]: GET [url]: /api/v1/user/user_valid HTTP/1.1 [status]: 304 [response-time]: 0.734 ms [client]: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36
+[15: 27: 49] [ip]: ::ffff:192.168.1.20 - [method]: OPTIONS [url]: /api/v1/user/show_user HTTP/1.1 [status]: 200 [response-time]: 0.129 ms [client]: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36
+[15: 27: 49] [ip]: ::ffff:192.168.1.20 - [method]: GET [url]: /api/v1/user/show_user HTTP/1.1 [status]: 200 [response-time]: 1.690 ms [client]: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36
+[15: 27: 49] [ip]: ::ffff:192.168.1.20 - [method]: OPTIONS [url]: /api/v1/user/user_valid HTTP/1.1 [status]: 200 [response-time]: 0.125 ms [client]: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36
+[15: 27: 49] [ip]: ::ffff:192.168.1.20 - [method]: GET [url]: /api/v1/user/user_valid HTTP/1.1 [status]: 304 [response-time]: 1.026 ms [client]: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36
+[15: 27: 49] [ip]: ::ffff:192.168.1.20 - [method]: OPTIONS [url]: /api/v1/user/user_valid HTTP/1.1 [status]: 200 [response-time]: 0.161 ms [client]: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36
+[15: 27: 49] [ip]: ::ffff:192.168.1.20 - [method]: GET [url]: /api/v1/user/user_valid HTTP/1.1 [status]: 304 [response-time]: 0.830 ms [client]: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36
+[15: 27: 49] [ip]: ::ffff:192.168.1.20 - [method]: GET [url]: /api/v1/user/user_valid HTTP/1.1 [status]: 304 [response-time]: 0.816 ms [client]: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36
+[15: 27: 49] [ip]: ::ffff:192.168.1.20 - [method]: GET [url]: /api/v1/user/user_valid HTTP/1.1 [status]: 304 [response-time]: 1.125 ms [client]: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36
+[15: 27: 49] [ip]: ::ffff:192.168.1.20 - [method]: GET [url]: /api/v1/user/user_valid HTTP/1.1 [status]: 304 [response-time]: 0.958 ms [client]: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36
+[15: 27: 49] [ip]: ::ffff:192.168.1.20 - [method]: OPTIONS [url]: /api/v1/user/user_valid HTTP/1.1 [status]: 200 [response-time]: 0.112 ms [client]: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36
+[15: 27: 49] [ip]: ::ffff:192.168.1.20 - [method]: OPTIONS [url]: /api/v1/promotion/get_promotion HTTP/1.1 [status]: 200 [response-time]: 0.123 ms [client]: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36
+[15: 27: 49] [ip]: ::ffff:192.168.1.20 - [method]: GET [url]: /api/v1/promotion/get_promotion HTTP/1.1 [status]: 304 [response-time]: 0.849 ms [client]: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36
+[15: 27: 49] [ip]: ::ffff:192.168.1.20 - [method]: GET [url]: /api/v1/promotion/image/promotion_17.png HTTP/1.1 [status]: 304 [response-time]: 2.051 ms [client]: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36
+[15: 27: 49] [ip]: ::ffff:192.168.1.20 - [method]: GET [url]: /api/v1/promotion/image/promotion_18.png HTTP/1.1 [status]: 304 [response-time]: 3.407 ms [client]: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36
+[15: 27: 49] [ip]: ::ffff:192.168.1.20 - [method]: GET [url]: /api/v1/promotion/image/promotion_19.png HTTP/1.1 [status]: 304 [response-time]: 2.273 ms [client]: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36
+[15: 27: 49] [ip]: ::ffff:192.168.1.20 - [method]: GET [url]: /api/v1/promotion/image/promotion_20.png HTTP/1.1 [status]: 304 [response-time]: 2.566 ms [client]: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36
+[15: 27: 49] [ip]: ::ffff:192.168.1.20 - [method]: GET [url]: /api/v1/promotion/image/promotion_22.png HTTP/1.1 [status]: 304 [response-time]: 1.043 ms [client]: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36
+[15: 27: 49] [ip]: ::ffff:192.168.1.20 - [method]: OPTIONS [url]: /api/v1/product/get_product HTTP/1.1 [status]: 200 [response-time]: 0.125 ms [client]: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36
+[15: 27: 49] [ip]: ::ffff:192.168.1.20 - [method]: GET [url]: /api/v1/product/get_product HTTP/1.1 [status]: 304 [response-time]: 0.933 ms [client]: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36
+[15: 27: 49] [ip]: ::ffff:192.168.1.20 - [method]: OPTIONS [url]: /api/v1/user/user_valid HTTP/1.1 [status]: 200 [response-time]: 0.240 ms [client]: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36
+[15: 27: 49] [ip]: ::ffff:192.168.1.20 - [method]: GET [url]: /api/v1/user/user_valid HTTP/1.1 [status]: 304 [response-time]: 0.864 ms [client]: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36
+[15: 27: 49] [ip]: ::ffff:192.168.1.20 - [method]: OPTIONS [url]: /api/v1/user/user_valid HTTP/1.1 [status]: 200 [response-time]: 0.133 ms [client]: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36
+[15: 27: 49] [ip]: ::ffff:192.168.1.20 - [method]: GET [url]: /api/v1/user/user_valid HTTP/1.1 [status]: 304 [response-time]: 0.951 ms [client]: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36
+[15: 55: 54] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/user_app/get_train HTTP/1.1 [status]: 304 [response-time]: 4.418 ms [client]: okhttp/3.12.1
+[15: 55: 54] [ip]: ::ffff:192.168.1.43 - [method]: POST [url]: /api/v1/pos/register HTTP/1.1 [status]: 200 [response-time]: 91.098 ms [client]: Dalvik/2.1.0 (Linux; U; Android 7.0; CS10C Build/NRD90M)
+[15: 55: 54] [ip]: ::ffff:192.168.1.64 - [method]: POST [url]: /api/v1/user_app/detail_train HTTP/1.1 [status]: 200 [response-time]: 3.342 ms [client]: okhttp/3.12.1
+[15: 55: 54] [ip]: ::ffff:192.168.1.64 - [method]: POST [url]: /api/v1/user_app/detail_train HTTP/1.1 [status]: 200 [response-time]: 1.507 ms [client]: okhttp/3.12.1
+[15: 55: 54] [ip]: ::ffff:192.168.1.43 - [method]: POST [url]: /api/v1/pos/register HTTP/1.1 [status]: 200 [response-time]: 138.123 ms [client]: Dalvik/2.1.0 (Linux; U; Android 7.0; CS10C Build/NRD90M)
+[15: 55: 54] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/user_app/get_train HTTP/1.1 [status]: 304 [response-time]: 0.907 ms [client]: okhttp/3.12.1
+[15: 55: 54] [ip]: ::ffff:192.168.1.64 - [method]: POST [url]: /api/v1/user_app/detail_train HTTP/1.1 [status]: 200 [response-time]: 1.269 ms [client]: okhttp/3.12.1
+[15: 55: 54] [ip]: ::ffff:192.168.1.64 - [method]: POST [url]: /api/v1/user_app/detail_train HTTP/1.1 [status]: 200 [response-time]: 4.284 ms [client]: okhttp/3.12.1
+[15: 55: 54] [ip]: ::ffff:192.168.1.64 - [method]: POST [url]: /api/v1/user_app/detail_train HTTP/1.1 [status]: 200 [response-time]: 1.696 ms [client]: okhttp/3.12.1
+[15: 55: 54] [ip]: ::ffff:192.168.1.64 - [method]: POST [url]: /api/v1/user_app/detail_train HTTP/1.1 [status]: 200 [response-time]: 1.498 ms [client]: okhttp/3.12.1
+[15: 55: 54] [ip]: ::ffff:192.168.1.20 - [method]: OPTIONS [url]: /api/v1/user/user_valid HTTP/1.1 [status]: 200 [response-time]: 0.962 ms [client]: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36
+[15: 55: 54] [ip]: ::ffff:192.168.1.20 - [method]: OPTIONS [url]: /api/v1/user/user_valid HTTP/1.1 [status]: 200 [response-time]: 0.134 ms [client]: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36
+[15: 55: 54] [ip]: ::ffff:192.168.1.20 - [method]: GET [url]: /api/v1/user/user_valid HTTP/1.1 [status]: 304 [response-time]: 2.248 ms [client]: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36
+[15: 55: 54] [ip]: ::ffff:192.168.1.20 - [method]: GET [url]: /api/v1/user/user_valid HTTP/1.1 [status]: 304 [response-time]: 1.034 ms [client]: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36
+[15: 55: 54] [ip]: ::ffff:192.168.1.20 - [method]: GET [url]: /api/v1/user/user_valid HTTP/1.1 [status]: 304 [response-time]: 0.834 ms [client]: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36
+[15: 55: 54] [ip]: ::ffff:192.168.1.20 - [method]: GET [url]: /api/v1/user/user_valid HTTP/1.1 [status]: 304 [response-time]: 0.708 ms [client]: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36
+[15: 55: 54] [ip]: ::ffff:192.168.1.20 - [method]: OPTIONS [url]: /api/v1/user/user_valid HTTP/1.1 [status]: 200 [response-time]: 0.134 ms [client]: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36
+[15: 55: 54] [ip]: ::ffff:192.168.1.20 - [method]: GET [url]: /api/v1/user/user_valid HTTP/1.1 [status]: 304 [response-time]: 0.816 ms [client]: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36
+[15: 55: 54] [ip]: ::ffff:192.168.1.20 - [method]: GET [url]: /api/v1/user/user_valid HTTP/1.1 [status]: 304 [response-time]: 0.631 ms [client]: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36
+[15: 55: 54] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/user_app/get_train HTTP/1.1 [status]: 200 [response-time]: 0.956 ms [client]: okhttp/3.12.1
+[15: 55: 54] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/user/image/user_54.png HTTP/1.1 [status]: 404 [response-time]: 1.077 ms [client]: okhttp/3.12.1
+[15: 55: 54] [ip]: ::ffff:192.168.1.64 - [method]: POST [url]: /api/v1/user_app/detail_train HTTP/1.1 [status]: 200 [response-time]: 1.465 ms [client]: okhttp/3.12.1
+[15: 55: 54] [ip]: ::ffff:192.168.1.20 - [method]: OPTIONS [url]: /api/v1/user/user_valid HTTP/1.1 [status]: 200 [response-time]: 0.593 ms [client]: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36
+[15: 55: 54] [ip]: ::ffff:192.168.1.20 - [method]: OPTIONS [url]: /api/v1/user/user_valid HTTP/1.1 [status]: 200 [response-time]: 0.080 ms [client]: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36
+[15: 55: 54] [ip]: ::ffff:192.168.1.20 - [method]: GET [url]: /api/v1/user/user_valid HTTP/1.1 [status]: 200 [response-time]: 0.883 ms [client]: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36
+[15: 55: 54] [ip]: ::ffff:192.168.1.20 - [method]: GET [url]: /api/v1/user/user_valid HTTP/1.1 [status]: 304 [response-time]: 0.838 ms [client]: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36
+[15: 55: 54] [ip]: ::ffff:192.168.1.20 - [method]: OPTIONS [url]: /api/v1/user/user_valid HTTP/1.1 [status]: 200 [response-time]: 0.131 ms [client]: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36
+[15: 55: 54] [ip]: ::ffff:192.168.1.20 - [method]: GET [url]: /api/v1/user/user_valid HTTP/1.1 [status]: 304 [response-time]: 0.930 ms [client]: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36
+[15: 55: 54] [ip]: ::ffff:192.168.1.20 - [method]: GET [url]: /api/v1/user/user_valid HTTP/1.1 [status]: 304 [response-time]: 0.927 ms [client]: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36
+[15: 55: 54] [ip]: ::ffff:192.168.1.20 - [method]: GET [url]: /api/v1/user/user_valid HTTP/1.1 [status]: 304 [response-time]: 1.071 ms [client]: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36
+[15: 55: 54] [ip]: ::ffff:192.168.1.20 - [method]: OPTIONS [url]: /api/v1/user/user_valid HTTP/1.1 [status]: 200 [response-time]: 0.120 ms [client]: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36
+[15: 55: 54] [ip]: ::ffff:192.168.1.20 - [method]: GET [url]: /api/v1/user/user_valid HTTP/1.1 [status]: 304 [response-time]: 1.014 ms [client]: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36
+[15: 55: 54] [ip]: ::ffff:192.168.1.20 - [method]: GET [url]: /api/v1/user/user_valid HTTP/1.1 [status]: 304 [response-time]: 0.873 ms [client]: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36
+[15: 55: 54] [ip]: ::ffff:192.168.1.20 - [method]: GET [url]: /api/v1/user/user_valid HTTP/1.1 [status]: 304 [response-time]: 0.913 ms [client]: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36
+[15: 55: 54] [ip]: ::ffff:192.168.1.20 - [method]: OPTIONS [url]: /api/v1/user/user_valid HTTP/1.1 [status]: 200 [response-time]: 0.116 ms [client]: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36
+[15: 55: 54] [ip]: ::ffff:192.168.1.20 - [method]: GET [url]: /api/v1/user/user_valid HTTP/1.1 [status]: 304 [response-time]: 0.854 ms [client]: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36
+[15: 55: 54] [ip]: ::ffff:192.168.1.20 - [method]: OPTIONS [url]: /api/v1/product/get_product HTTP/1.1 [status]: 200 [response-time]: 0.408 ms [client]: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36
+[15: 55: 54] [ip]: ::ffff:192.168.1.20 - [method]: GET [url]: /api/v1/product/get_product HTTP/1.1 [status]: 304 [response-time]: 1.804 ms [client]: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36
+[15: 55: 54] [ip]: ::ffff:192.168.1.20 - [method]: GET [url]: /api/v1/product/image/product_30.png HTTP/1.1 [status]: 200 [response-time]: 19.846 ms [client]: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36
+[15: 55: 54] [ip]: ::ffff:192.168.1.20 - [method]: GET [url]: /api/v1/product/image/product_31.png HTTP/1.1 [status]: 200 [response-time]: 24.490 ms [client]: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36
+[15: 55: 54] [ip]: ::ffff:192.168.1.20 - [method]: GET [url]: /api/v1/product/image/product_32.png HTTP/1.1 [status]: 200 [response-time]: 13.519 ms [client]: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36
+[15: 55: 54] [ip]: ::ffff:192.168.1.20 - [method]: GET [url]: /api/v1/product/image/product_35.png HTTP/1.1 [status]: 200 [response-time]: 2.179 ms [client]: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36
+[15: 55: 54] [ip]: ::ffff:192.168.1.20 - [method]: GET [url]: /api/v1/product/image/product_29.png HTTP/1.1 [status]: 200 [response-time]: 12.333 ms [client]: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36
+[15: 55: 54] [ip]: ::ffff:192.168.1.20 - [method]: OPTIONS [url]: /api/v1/product/get_product_update HTTP/1.1 [status]: 200 [response-time]: 0.127 ms [client]: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36
+[15: 55: 54] [ip]: ::ffff:192.168.1.20 - [method]: POST [url]: /api/v1/product/get_product_update HTTP/1.1 [status]: 200 [response-time]: 1.445 ms [client]: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36
+[15: 55: 54] [ip]: ::ffff:192.168.1.20 - [method]: OPTIONS [url]: /api/v1/product/get_product HTTP/1.1 [status]: 200 [response-time]: 0.128 ms [client]: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36
+[15: 55: 54] [ip]: ::ffff:192.168.1.20 - [method]: GET [url]: /api/v1/product/get_product HTTP/1.1 [status]: 304 [response-time]: 0.761 ms [client]: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36
+[15: 55: 54] [ip]: ::ffff:192.168.1.20 - [method]: OPTIONS [url]: /api/v1/user/user_valid HTTP/1.1 [status]: 200 [response-time]: 0.131 ms [client]: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36
+[15: 55: 54] [ip]: ::ffff:192.168.1.20 - [method]: GET [url]: /api/v1/user/user_valid HTTP/1.1 [status]: 304 [response-time]: 1.026 ms [client]: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36
+[15: 55: 54] [ip]: ::ffff:192.168.1.20 - [method]: GET [url]: /api/v1/user/user_valid HTTP/1.1 [status]: 304 [response-time]: 1.042 ms [client]: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36
+[15: 55: 54] [ip]: ::ffff:192.168.1.20 - [method]: GET [url]: /api/v1/user/user_valid HTTP/1.1 [status]: 304 [response-time]: 0.935 ms [client]: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36
+[15: 55: 54] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/user_app/get_train HTTP/1.1 [status]: 304 [response-time]: 0.864 ms [client]: okhttp/3.12.1
+[15: 55: 54] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/user/image/user_54.png HTTP/1.1 [status]: 404 [response-time]: 0.199 ms [client]: okhttp/3.12.1
+[15: 55: 54] [ip]: ::ffff:192.168.1.64 - [method]: POST [url]: /api/v1/user_app/detail_train HTTP/1.1 [status]: 200 [response-time]: 1.966 ms [client]: okhttp/3.12.1
+[15: 55: 54] [ip]: ::ffff:192.168.1.64 - [method]: POST [url]: /api/v1/user_app/detail_train HTTP/1.1 [status]: 200 [response-time]: 1.840 ms [client]: okhttp/3.12.1
+[15: 55: 54] [ip]: ::ffff:192.168.1.64 - [method]: POST [url]: /api/v1/user_app/detail_train HTTP/1.1 [status]: 200 [response-time]: 1.163 ms [client]: okhttp/3.12.1
+[15: 55: 54] [ip]: ::ffff:192.168.1.64 - [method]: POST [url]: /api/v1/user_app/detail_train HTTP/1.1 [status]: 200 [response-time]: 1.377 ms [client]: okhttp/3.12.1
+[15: 55: 54] [ip]: ::ffff:192.168.1.64 - [method]: POST [url]: /api/v1/user_app/detail_train HTTP/1.1 [status]: 200 [response-time]: 1.570 ms [client]: okhttp/3.12.1
+[15: 55: 54] [ip]: ::ffff:192.168.1.64 - [method]: POST [url]: /api/v1/user_app/detail_train HTTP/1.1 [status]: 200 [response-time]: 1.591 ms [client]: okhttp/3.12.1
+[15: 55: 54] [ip]: ::ffff:192.168.1.64 - [method]: POST [url]: /api/v1/user_app/detail_train HTTP/1.1 [status]: 200 [response-time]: 2.024 ms [client]: okhttp/3.12.1
+[15: 55: 54] [ip]: ::ffff:192.168.1.64 - [method]: POST [url]: /api/v1/user_app/detail_train HTTP/1.1 [status]: 200 [response-time]: 1.963 ms [client]: okhttp/3.12.1
+[15: 55: 54] [ip]: ::ffff:192.168.1.64 - [method]: POST [url]: /api/v1/user_app/detail_train HTTP/1.1 [status]: 200 [response-time]: 1.808 ms [client]: okhttp/3.12.1
+[15: 55: 54] [ip]: ::ffff:192.168.1.64 - [method]: POST [url]: /api/v1/user_app/detail_train HTTP/1.1 [status]: 200 [response-time]: 1.520 ms [client]: okhttp/3.12.1
+[15: 55: 54] [ip]: ::ffff:192.168.1.64 - [method]: POST [url]: /api/v1/user_app/detail_train HTTP/1.1 [status]: 200 [response-time]: 1.501 ms [client]: okhttp/3.12.1
+[15: 55: 54] [ip]: ::ffff:192.168.1.64 - [method]: POST [url]: /api/v1/user_app/detail_train HTTP/1.1 [status]: 200 [response-time]: 1.442 ms [client]: okhttp/3.12.1
+[15: 55: 54] [ip]: ::ffff:192.168.1.64 - [method]: POST [url]: /api/v1/user_app/detail_train HTTP/1.1 [status]: 200 [response-time]: 1.512 ms [client]: okhttp/3.12.1
+[15: 55: 54] [ip]: ::ffff:192.168.1.64 - [method]: POST [url]: /api/v1/user_app/detail_train HTTP/1.1 [status]: 200 [response-time]: 2.298 ms [client]: okhttp/3.12.1
+[15: 55: 54] [ip]: ::ffff:192.168.1.64 - [method]: POST [url]: /api/v1/user_app/detail_train HTTP/1.1 [status]: 200 [response-time]: 1.624 ms [client]: okhttp/3.12.1
+[15: 55: 54] [ip]: ::ffff:192.168.1.64 - [method]: POST [url]: /api/v1/user_app/detail_train HTTP/1.1 [status]: 200 [response-time]: 1.610 ms [client]: okhttp/3.12.1
+[15: 55: 54] [ip]: ::ffff:192.168.1.64 - [method]: POST [url]: /api/v1/user_app/detail_train HTTP/1.1 [status]: 200 [response-time]: 1.656 ms [client]: okhttp/3.12.1
+[15: 55: 54] [ip]: ::ffff:192.168.1.64 - [method]: POST [url]: /api/v1/user_app/detail_train HTTP/1.1 [status]: 200 [response-time]: 1.411 ms [client]: okhttp/3.12.1
+[15: 55: 54] [ip]: ::ffff:192.168.1.64 - [method]: POST [url]: /api/v1/user_app/detail_train HTTP/1.1 [status]: 200 [response-time]: 1.075 ms [client]: okhttp/3.12.1
+[15: 55: 54] [ip]: ::ffff:192.168.1.20 - [method]: OPTIONS [url]: /api/v1/user/user_valid HTTP/1.1 [status]: 200 [response-time]: 0.137 ms [client]: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36
+[15: 55: 54] [ip]: ::ffff:192.168.1.20 - [method]: GET [url]: /api/v1/user/user_valid HTTP/1.1 [status]: 304 [response-time]: 1.532 ms [client]: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36
+[15: 55: 54] [ip]: ::ffff:192.168.1.20 - [method]: OPTIONS [url]: /api/v1/product/get_product HTTP/1.1 [status]: 200 [response-time]: 0.124 ms [client]: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36
+[15: 55: 54] [ip]: ::ffff:192.168.1.20 - [method]: GET [url]: /api/v1/product/get_product HTTP/1.1 [status]: 304 [response-time]: 0.877 ms [client]: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36
+[15: 55: 54] [ip]: ::ffff:192.168.1.20 - [method]: GET [url]: /api/v1/product/image/product_29.png HTTP/1.1 [status]: 304 [response-time]: 1.573 ms [client]: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36
+[15: 55: 54] [ip]: ::ffff:192.168.1.20 - [method]: GET [url]: /api/v1/product/image/product_30.png HTTP/1.1 [status]: 304 [response-time]: 1.189 ms [client]: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36
+[15: 55: 54] [ip]: ::ffff:192.168.1.20 - [method]: GET [url]: /api/v1/product/image/product_31.png HTTP/1.1 [status]: 304 [response-time]: 2.491 ms [client]: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36
+[15: 55: 54] [ip]: ::ffff:192.168.1.20 - [method]: GET [url]: /api/v1/product/image/product_35.png HTTP/1.1 [status]: 304 [response-time]: 2.876 ms [client]: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36
+[15: 55: 54] [ip]: ::ffff:192.168.1.20 - [method]: GET [url]: /api/v1/product/image/product_32.png HTTP/1.1 [status]: 304 [response-time]: 3.970 ms [client]: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36
+[15: 55: 54] [ip]: ::ffff:192.168.1.20 - [method]: OPTIONS [url]: /api/v1/product/get_product_update HTTP/1.1 [status]: 200 [response-time]: 0.124 ms [client]: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36
+[15: 55: 54] [ip]: ::ffff:192.168.1.20 - [method]: POST [url]: /api/v1/product/get_product_update HTTP/1.1 [status]: 200 [response-time]: 0.582 ms [client]: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36
+[15: 55: 54] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/user_app/get_train HTTP/1.1 [status]: 304 [response-time]: 0.792 ms [client]: okhttp/3.12.1
+[15: 55: 54] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/user/image/user_54.png HTTP/1.1 [status]: 404 [response-time]: 0.142 ms [client]: okhttp/3.12.1
+[15: 55: 54] [ip]: ::ffff:192.168.1.64 - [method]: POST [url]: /api/v1/user_app/detail_train HTTP/1.1 [status]: 200 [response-time]: 1.495 ms [client]: okhttp/3.12.1
+[15: 55: 54] [ip]: ::ffff:192.168.1.64 - [method]: POST [url]: /api/v1/user_app/detail_train HTTP/1.1 [status]: 200 [response-time]: 1.654 ms [client]: okhttp/3.12.1
+[15: 55: 54] [ip]: ::ffff:192.168.1.64 - [method]: POST [url]: /api/v1/user_app/detail_train HTTP/1.1 [status]: 200 [response-time]: 1.725 ms [client]: okhttp/3.12.1
+[15: 55: 54] [ip]: ::ffff:192.168.1.64 - [method]: POST [url]: /api/v1/user_app/detail_train HTTP/1.1 [status]: 200 [response-time]: 1.497 ms [client]: okhttp/3.12.1
+[15: 55: 54] [ip]: ::ffff:192.168.1.64 - [method]: POST [url]: /api/v1/user_app/detail_train HTTP/1.1 [status]: 200 [response-time]: 1.402 ms [client]: okhttp/3.12.1
+[15: 55: 54] [ip]: ::ffff:192.168.1.64 - [method]: POST [url]: /api/v1/user_app/detail_train HTTP/1.1 [status]: 200 [response-time]: 1.474 ms [client]: okhttp/3.12.1
+[15: 55: 54] [ip]: ::ffff:192.168.1.64 - [method]: POST [url]: /api/v1/user_app/detail_train HTTP/1.1 [status]: 200 [response-time]: 1.586 ms [client]: okhttp/3.12.1
+[15: 55: 54] [ip]: ::ffff:192.168.1.64 - [method]: POST [url]: /api/v1/user_app/detail_train HTTP/1.1 [status]: 200 [response-time]: 1.635 ms [client]: okhttp/3.12.1
+[15: 55: 54] [ip]: ::ffff:192.168.1.64 - [method]: POST [url]: /api/v1/user_app/detail_train HTTP/1.1 [status]: 200 [response-time]: 1.719 ms [client]: okhttp/3.12.1
+[15: 55: 54] [ip]: ::ffff:192.168.1.64 - [method]: POST [url]: /api/v1/user_app/detail_train HTTP/1.1 [status]: 200 [response-time]: 1.381 ms [client]: okhttp/3.12.1
+[15: 55: 54] [ip]: ::ffff:192.168.1.64 - [method]: POST [url]: /api/v1/user_app/detail_train HTTP/1.1 [status]: 200 [response-time]: 1.414 ms [client]: okhttp/3.12.1
+[15: 55: 54] [ip]: ::ffff:192.168.1.64 - [method]: POST [url]: /api/v1/user_app/detail_train HTTP/1.1 [status]: 200 [response-time]: 1.420 ms [client]: okhttp/3.12.1
+[15: 55: 54] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/app_pro/img_promotiotion_app HTTP/1.1 [status]: 304 [response-time]: 0.953 ms [client]: okhttp/3.12.1
+[15: 55: 54] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/app_pro/img_promotiotion_app HTTP/1.1 [status]: 304 [response-time]: 0.663 ms [client]: okhttp/3.12.1
+[15: 55: 54] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/app_pro/img_promotiotion_app HTTP/1.1 [status]: 304 [response-time]: 0.714 ms [client]: okhttp/3.12.1
+[15: 55: 54] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/app_pro/img_promotiotion_app HTTP/1.1 [status]: 304 [response-time]: 0.715 ms [client]: okhttp/3.12.1
+[15: 55: 54] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/app_pro/img_promotiotion_app HTTP/1.1 [status]: 304 [response-time]: 0.599 ms [client]: okhttp/3.12.1
+[15: 55: 54] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/app_pro/img_promotiotion_app HTTP/1.1 [status]: 304 [response-time]: 0.711 ms [client]: okhttp/3.12.1
+[15: 55: 54] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/user_app/get_train HTTP/1.1 [status]: 304 [response-time]: 0.872 ms [client]: okhttp/3.12.1
+[15: 55: 54] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/user/image/user_54.png HTTP/1.1 [status]: 404 [response-time]: 0.134 ms [client]: okhttp/3.12.1
+[15: 55: 54] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/app_pro/get_all_promotion_app HTTP/1.1 [status]: 304 [response-time]: 0.895 ms [client]: okhttp/3.12.1
+[15: 55: 54] [ip]: ::ffff:192.168.1.64 - [method]: POST [url]: /api/v1/app_pro/get_promotion_app HTTP/1.1 [status]: 200 [response-time]: 1.745 ms [client]: okhttp/3.12.1
+[15: 55: 54] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/undefined HTTP/1.1 [status]: 404 [response-time]: 0.121 ms [client]: okhttp/3.12.1
+[15: 55: 54] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/course/get_all HTTP/1.1 [status]: 304 [response-time]: 74.827 ms [client]: okhttp/3.12.1
+[15: 55: 54] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/course/all_course HTTP/1.1 [status]: 304 [response-time]: 0.772 ms [client]: okhttp/3.12.1
+[15: 55: 54] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/app_pro/get_all_promotion_app HTTP/1.1 [status]: 304 [response-time]: 0.749 ms [client]: okhttp/3.12.1
+[15: 55: 54] [ip]: ::ffff:192.168.1.64 - [method]: POST [url]: /api/v1/app_pro/get_promotion_app HTTP/1.1 [status]: 200 [response-time]: 1.515 ms [client]: okhttp/3.12.1
+[15: 55: 54] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/undefined HTTP/1.1 [status]: 404 [response-time]: 0.153 ms [client]: okhttp/3.12.1
+[15: 55: 54] [ip]: ::ffff:192.168.1.64 - [method]: POST [url]: /api/v1/app_pro/get_promotion_app HTTP/1.1 [status]: 200 [response-time]: 1.729 ms [client]: okhttp/3.12.1
+[15: 55: 54] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/undefined HTTP/1.1 [status]: 404 [response-time]: 0.102 ms [client]: okhttp/3.12.1
+[15: 55: 54] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/course/get_all HTTP/1.1 [status]: 304 [response-time]: 75.053 ms [client]: okhttp/3.12.1
+[15: 55: 54] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/course/all_course HTTP/1.1 [status]: 304 [response-time]: 0.551 ms [client]: okhttp/3.12.1
+[15: 55: 54] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/app_pro/img_promotiotion_app HTTP/1.1 [status]: 304 [response-time]: 0.682 ms [client]: okhttp/3.12.1
+[15: 55: 54] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/user_app/get_train HTTP/1.1 [status]: 304 [response-time]: 0.788 ms [client]: okhttp/3.12.1
+[15: 55: 54] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/user/image/user_54.png HTTP/1.1 [status]: 404 [response-time]: 0.125 ms [client]: okhttp/3.12.1
+[15: 55: 54] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/user_app/get_train HTTP/1.1 [status]: 304 [response-time]: 0.731 ms [client]: okhttp/3.12.1
+[15: 55: 54] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/user/image/user_54.png HTTP/1.1 [status]: 404 [response-time]: 0.120 ms [client]: okhttp/3.12.1
+[15: 55: 54] [ip]: ::ffff:192.168.1.64 - [method]: POST [url]: /api/v1/user_app/detail_train HTTP/1.1 [status]: 200 [response-time]: 1.411 ms [client]: okhttp/3.12.1
+[15: 55: 54] [ip]: ::ffff:192.168.1.64 - [method]: POST [url]: /api/v1/user_app/detail_train HTTP/1.1 [status]: 200 [response-time]: 1.350 ms [client]: okhttp/3.12.1
+[15: 55: 54] [ip]: ::ffff:192.168.1.64 - [method]: POST [url]: /api/v1/user_app/detail_train HTTP/1.1 [status]: 200 [response-time]: 1.534 ms [client]: okhttp/3.12.1
+[15: 55: 54] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/course/get_all HTTP/1.1 [status]: 304 [response-time]: 43.213 ms [client]: okhttp/3.12.1
+[15: 55: 54] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/course/all_course HTTP/1.1 [status]: 304 [response-time]: 0.619 ms [client]: okhttp/3.12.1
+[15: 55: 54] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/course/all_course HTTP/1.1 [status]: 304 [response-time]: 0.563 ms [client]: okhttp/3.12.1
+[15: 55: 54] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/course/get_all HTTP/1.1 [status]: 304 [response-time]: 43.838 ms [client]: okhttp/3.12.1
+[15: 55: 54] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/course/all_course HTTP/1.1 [status]: 304 [response-time]: 0.536 ms [client]: okhttp/3.12.1
+[15: 55: 54] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/course/get_all HTTP/1.1 [status]: 304 [response-time]: 66.436 ms [client]: okhttp/3.12.1
+[15: 55: 54] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/course/get_all HTTP/1.1 [status]: 304 [response-time]: 53.824 ms [client]: okhttp/3.12.1
+[15: 55: 54] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/course/all_course HTTP/1.1 [status]: 304 [response-time]: 0.677 ms [client]: okhttp/3.12.1
+[15: 55: 54] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/course/get_all HTTP/1.1 [status]: 304 [response-time]: 51.418 ms [client]: okhttp/3.12.1
+[15: 55: 54] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/course/all_course HTTP/1.1 [status]: 304 [response-time]: 0.617 ms [client]: okhttp/3.12.1
+[15: 55: 54] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/app_pro/img_promotiotion_app HTTP/1.1 [status]: 304 [response-time]: 0.669 ms [client]: okhttp/3.12.1
+[15: 55: 54] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/app_pro/img_promotiotion_app HTTP/1.1 [status]: 304 [response-time]: 0.567 ms [client]: okhttp/3.12.1
+[15: 55: 54] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/app_pro/img_promotiotion_app HTTP/1.1 [status]: 304 [response-time]: 0.708 ms [client]: okhttp/3.12.1
+[15: 55: 54] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/app_pro/img_promotiotion_app HTTP/1.1 [status]: 304 [response-time]: 0.961 ms [client]: okhttp/3.12.1
+[15: 55: 54] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/user_app/get_train HTTP/1.1 [status]: 304 [response-time]: 0.769 ms [client]: okhttp/3.12.1
+[15: 55: 54] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/user/image/user_54.png HTTP/1.1 [status]: 404 [response-time]: 0.119 ms [client]: okhttp/3.12.1
+[15: 55: 54] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/course/get_all HTTP/1.1 [status]: 304 [response-time]: 38.950 ms [client]: okhttp/3.12.1
+[15: 55: 54] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/course/all_course HTTP/1.1 [status]: 304 [response-time]: 0.405 ms [client]: okhttp/3.12.1
+[15: 55: 54] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/app_pro/get_all_promotion_app HTTP/1.1 [status]: 304 [response-time]: 0.622 ms [client]: okhttp/3.12.1
+[15: 55: 54] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/user_app/get_train HTTP/1.1 [status]: 304 [response-time]: 0.770 ms [client]: okhttp/3.12.1
+[15: 55: 54] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/user/image/user_54.png HTTP/1.1 [status]: 404 [response-time]: 0.205 ms [client]: okhttp/3.12.1
+[15: 55: 54] [ip]: ::ffff:192.168.1.64 - [method]: POST [url]: /api/v1/user_app/detail_train HTTP/1.1 [status]: 200 [response-time]: 1.548 ms [client]: okhttp/3.12.1
+[15: 55: 54] [ip]: ::ffff:192.168.1.64 - [method]: POST [url]: /api/v1/app_pro/get_promotion_app HTTP/1.1 [status]: 200 [response-time]: 0.960 ms [client]: okhttp/3.12.1
+[15: 55: 54] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/undefined HTTP/1.1 [status]: 404 [response-time]: 0.093 ms [client]: okhttp/3.12.1
+[15: 55: 54] [ip]: ::ffff:192.168.1.64 - [method]: POST [url]: /api/v1/app_pro/get_promotion_app HTTP/1.1 [status]: 200 [response-time]: 1.346 ms [client]: okhttp/3.12.1
+[15: 55: 54] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/undefined HTTP/1.1 [status]: 404 [response-time]: 0.108 ms [client]: okhttp/3.12.1
+[15: 55: 54] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/user_app/get_train HTTP/1.1 [status]: 304 [response-time]: 1.011 ms [client]: okhttp/3.12.1
+[15: 55: 54] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/user/image/user_54.png HTTP/1.1 [status]: 404 [response-time]: 0.146 ms [client]: okhttp/3.12.1
+[15: 55: 54] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/user_app/get_train HTTP/1.1 [status]: 304 [response-time]: 0.740 ms [client]: okhttp/3.12.1
+[15: 55: 54] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/user/image/user_54.png HTTP/1.1 [status]: 404 [response-time]: 0.119 ms [client]: okhttp/3.12.1
+[15: 55: 54] [ip]: ::ffff:192.168.1.64 - [method]: POST [url]: /api/v1/user_app/detail_train HTTP/1.1 [status]: 200 [response-time]: 1.570 ms [client]: okhttp/3.12.1
+[15: 55: 54] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/user/image/user_54.png HTTP/1.1 [status]: 404 [response-time]: 0.150 ms [client]: okhttp/3.12.1
+[17: 47: 52] [ip]: ::ffff:192.168.1.20 - [method]: OPTIONS [url]: /api/v1/user/user_valid HTTP/1.1 [status]: 200 [response-time]: 2.579 ms [client]: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36
+[17: 47: 52] [ip]: ::ffff:192.168.1.20 - [method]: OPTIONS [url]: /api/v1/product/get_product_update HTTP/1.1 [status]: 200 [response-time]: 0.569 ms [client]: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36
+[17: 47: 52] [ip]: ::ffff:192.168.1.20 - [method]: GET [url]: /api/v1/user/user_valid HTTP/1.1 [status]: 304 [response-time]: 4.256 ms [client]: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36
+[17: 47: 52] [ip]: ::ffff:192.168.1.20 - [method]: POST [url]: /api/v1/product/get_product_update HTTP/1.1 [status]: 200 [response-time]: 1.643 ms [client]: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36
+[17: 47: 52] [ip]: ::ffff:192.168.1.20 - [method]: GET [url]: /api/v1/product/image/product_29.png HTTP/1.1 [status]: 304 [response-time]: 5.548 ms [client]: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36
+[17: 47: 52] [ip]: ::ffff:192.168.1.20 - [method]: OPTIONS [url]: /api/v1/user/user_valid HTTP/1.1 [status]: 200 [response-time]: 0.118 ms [client]: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36
+[17: 47: 52] [ip]: ::ffff:192.168.1.20 - [method]: GET [url]: /api/v1/user/user_valid HTTP/1.1 [status]: 304 [response-time]: 0.906 ms [client]: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36
+[17: 47: 52] [ip]: ::ffff:192.168.1.20 - [method]: OPTIONS [url]: /api/v1/product/get_product HTTP/1.1 [status]: 200 [response-time]: 0.119 ms [client]: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36
+[17: 47: 52] [ip]: ::ffff:192.168.1.20 - [method]: GET [url]: /api/v1/product/get_product HTTP/1.1 [status]: 304 [response-time]: 0.778 ms [client]: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36
+[17: 50: 00] [ip]: ::ffff:192.168.1.20 - [method]: OPTIONS [url]: /api/v1/user/user_valid HTTP/1.1 [status]: 200 [response-time]: 2.535 ms [client]: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36
+[17: 50: 00] [ip]: ::ffff:192.168.1.20 - [method]: GET [url]: /api/v1/user/user_valid HTTP/1.1 [status]: 304 [response-time]: 4.268 ms [client]: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36
+[17: 50: 00] [ip]: ::ffff:192.168.1.20 - [method]: OPTIONS [url]: /api/v1/user/user_valid HTTP/1.1 [status]: 200 [response-time]: 0.161 ms [client]: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36
+[17: 50: 00] [ip]: ::ffff:192.168.1.20 - [method]: GET [url]: /api/v1/user/user_valid HTTP/1.1 [status]: 304 [response-time]: 0.926 ms [client]: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36
+[17: 50: 00] [ip]: ::1 - [method]: POST [url]: /api/v1/app_sum/add_gym HTTP/1.1 [status]: 404 [response-time]: 0.899 ms [client]: PostmanRuntime/7.18.0
+[17: 50: 00] [ip]: ::ffff:192.168.1.20 - [method]: OPTIONS [url]: /api/v1/user/user_valid HTTP/1.1 [status]: 200 [response-time]: 0.126 ms [client]: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36
+[17: 50: 00] [ip]: ::ffff:192.168.1.20 - [method]: OPTIONS [url]: /api/v1/user/user_valid HTTP/1.1 [status]: 200 [response-time]: 0.120 ms [client]: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36
+[17: 50: 00] [ip]: ::ffff:192.168.1.20 - [method]: GET [url]: /api/v1/user/user_valid HTTP/1.1 [status]: 304 [response-time]: 0.745 ms [client]: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36
+[17: 50: 00] [ip]: ::ffff:192.168.1.20 - [method]: GET [url]: /api/v1/user/user_valid HTTP/1.1 [status]: 304 [response-time]: 0.758 ms [client]: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36
+[17: 53: 12] [ip]: ::1 - [method]: POST [url]: /api/v1/app_sum/add_gym HTTP/1.1 [status]: 404 [response-time]: 1.244 ms [client]: PostmanRuntime/7.18.0
+[17: 58: 39] [ip]: ::1 - [method]: POST [url]: /api/v1/app/add_gym HTTP/1.1 [status]: 200 [response-time]: 8.736 ms [client]: PostmanRuntime/7.18.0
+[17: 58: 39] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/user/image/user_54.png HTTP/1.1 [status]: 404 [response-time]: 1.698 ms [client]: okhttp/3.12.1
+[17: 58: 39] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/user_app/get_train HTTP/1.1 [status]: 304 [response-time]: 2.494 ms [client]: okhttp/3.12.1
+[17: 58: 39] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/user/image/user_54.png HTTP/1.1 [status]: 404 [response-time]: 0.230 ms [client]: okhttp/3.12.1
+[17: 58: 39] [ip]: ::ffff:192.168.1.64 - [method]: POST [url]: /api/v1/app_pro/get_promotion_app HTTP/1.1 [status]: 404 [response-time]: 0.053 ms [client]: okhttp/3.12.1
+[17: 58: 39] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/undefined HTTP/1.1 [status]: 404 [response-time]: 0.128 ms [client]: okhttp/3.12.1
+[17: 58: 39] [ip]: ::ffff:192.168.1.64 - [method]: POST [url]: /api/v1/app_pro/get_promotion_app HTTP/1.1 [status]: 404 [response-time]: 0.045 ms [client]: okhttp/3.12.1
+[17: 58: 39] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/undefined HTTP/1.1 [status]: 404 [response-time]: 0.100 ms [client]: okhttp/3.12.1
+[18: 13: 42] [ip]: ::ffff:192.168.1.64 - [method]: POST [url]: /api/v1/app_pro/get_promotion_app HTTP/1.1 [status]: 200 [response-time]: 6.294 ms [client]: okhttp/3.12.1
+[18: 13: 42] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/undefined HTTP/1.1 [status]: 404 [response-time]: 1.118 ms [client]: okhttp/3.12.1
+[18: 13: 42] [ip]: ::ffff:192.168.1.64 - [method]: POST [url]: /api/v1/app_pro/get_promotion_app HTTP/1.1 [status]: 200 [response-time]: 1.762 ms [client]: okhttp/3.12.1
+[18: 13: 42] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/undefined HTTP/1.1 [status]: 404 [response-time]: 0.217 ms [client]: okhttp/3.12.1
+[18: 13: 42] [ip]: ::ffff:192.168.1.64 - [method]: POST [url]: /api/v1/app_pro/get_promotion_app HTTP/1.1 [status]: 200 [response-time]: 1.323 ms [client]: okhttp/3.12.1
+[18: 13: 42] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/undefined HTTP/1.1 [status]: 404 [response-time]: 0.102 ms [client]: okhttp/3.12.1
+[18: 13: 42] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/app_pro/img_promotiotion_app HTTP/1.1 [status]: 304 [response-time]: 1.132 ms [client]: okhttp/3.12.1
+[18: 13: 42] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/user_app/get_train HTTP/1.1 [status]: 304 [response-time]: 1.162 ms [client]: okhttp/3.12.1
+[18: 13: 42] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/user/image/user_54.png HTTP/1.1 [status]: 404 [response-time]: 0.686 ms [client]: okhttp/3.12.1
+[18: 13: 42] [ip]: ::ffff:192.168.1.64 - [method]: POST [url]: /api/v1/user_app/detail_train HTTP/1.1 [status]: 200 [response-time]: 1.733 ms [client]: okhttp/3.12.1
+[18: 13: 42] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/user_app/get_train HTTP/1.1 [status]: 304 [response-time]: 1.060 ms [client]: okhttp/3.12.1
+[18: 13: 42] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/user/image/user_54.png HTTP/1.1 [status]: 404 [response-time]: 0.141 ms [client]: okhttp/3.12.1
+[18: 13: 42] [ip]: ::ffff:192.168.1.64 - [method]: POST [url]: /api/v1/user_app/detail_train HTTP/1.1 [status]: 200 [response-time]: 1.719 ms [client]: okhttp/3.12.1
+[18: 13: 42] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/app_pro/get_all_promotion_app HTTP/1.1 [status]: 304 [response-time]: 0.829 ms [client]: okhttp/3.12.1
+[18: 13: 42] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/app_pro/get_all_promotion_app HTTP/1.1 [status]: 304 [response-time]: 1.126 ms [client]: okhttp/3.12.1
+[18: 13: 42] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/app_pro/img_promotiotion_app HTTP/1.1 [status]: 304 [response-time]: 0.808 ms [client]: okhttp/3.12.1
+[18: 13: 42] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/app_pro/img_promotiotion_app HTTP/1.1 [status]: 304 [response-time]: 0.641 ms [client]: okhttp/3.12.1
+[18: 13: 42] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/app_pro/img_promotiotion_app HTTP/1.1 [status]: 304 [response-time]: 0.811 ms [client]: okhttp/3.12.1
+[18: 13: 42] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/app_pro/img_promotiotion_app HTTP/1.1 [status]: 304 [response-time]: 0.637 ms [client]: okhttp/3.12.1
+[18: 13: 42] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/app_pro/img_promotiotion_app HTTP/1.1 [status]: 304 [response-time]: 0.902 ms [client]: okhttp/3.12.1
+[18: 13: 42] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/app_pro/img_promotiotion_app HTTP/1.1 [status]: 304 [response-time]: 0.674 ms [client]: okhttp/3.12.1
+[18: 13: 42] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/app_pro/img_promotiotion_app HTTP/1.1 [status]: 304 [response-time]: 0.677 ms [client]: okhttp/3.12.1
+[18: 13: 42] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/app_pro/img_promotiotion_app HTTP/1.1 [status]: 304 [response-time]: 0.688 ms [client]: okhttp/3.12.1
+[18: 13: 42] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/app_pro/img_promotiotion_app HTTP/1.1 [status]: 304 [response-time]: 0.783 ms [client]: okhttp/3.12.1
+[18: 13: 42] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/app_pro/img_promotiotion_app HTTP/1.1 [status]: 304 [response-time]: 0.605 ms [client]: okhttp/3.12.1
+[18: 13: 42] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/app_pro/img_promotiotion_app HTTP/1.1 [status]: 304 [response-time]: 0.707 ms [client]: okhttp/3.12.1
+[18: 13: 42] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/app_pro/img_promotiotion_app HTTP/1.1 [status]: 304 [response-time]: 0.681 ms [client]: okhttp/3.12.1
+[18: 13: 42] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/app_pro/img_promotiotion_app HTTP/1.1 [status]: 304 [response-time]: 2.593 ms [client]: okhttp/3.12.1
+[18: 13: 42] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/app_pro/img_promotiotion_app HTTP/1.1 [status]: 304 [response-time]: 1.173 ms [client]: okhttp/3.12.1
+[18: 13: 42] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/app_pro/img_promotiotion_app HTTP/1.1 [status]: 304 [response-time]: 0.698 ms [client]: okhttp/3.12.1
+[18: 13: 42] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/app_pro/img_promotiotion_app HTTP/1.1 [status]: 304 [response-time]: 1.773 ms [client]: okhttp/3.12.1
+[18: 13: 42] [ip]: ::ffff:192.168.1.64 - [method]: POST [url]: /api/v1/app_pro/get_promotion_app HTTP/1.1 [status]: 200 [response-time]: 2.002 ms [client]: okhttp/3.12.1
+[18: 13: 42] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/undefined HTTP/1.1 [status]: 404 [response-time]: 0.232 ms [client]: okhttp/3.12.1
+[18: 13: 42] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/app_pro/img_promotiotion_app HTTP/1.1 [status]: 304 [response-time]: 1.288 ms [client]: okhttp/3.12.1
+[18: 13: 42] [ip]: ::ffff:192.168.1.20 - [method]: OPTIONS [url]: /api/v1/user/user_valid HTTP/1.1 [status]: 200 [response-time]: 0.636 ms [client]: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36
+[18: 13: 42] [ip]: ::ffff:192.168.1.20 - [method]: GET [url]: /api/v1/user/user_valid HTTP/1.1 [status]: 304 [response-time]: 2.849 ms [client]: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36
+[18: 13: 42] [ip]: ::ffff:192.168.1.20 - [method]: OPTIONS [url]: /api/v1/user/user_valid HTTP/1.1 [status]: 200 [response-time]: 0.148 ms [client]: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36
+[18: 13: 42] [ip]: ::ffff:192.168.1.20 - [method]: GET [url]: /api/v1/user/user_valid HTTP/1.1 [status]: 200 [response-time]: 0.253 ms [client]: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36
+[18: 13: 42] [ip]: ::ffff:192.168.1.64 - [method]: POST [url]: /api/v1/app_pro/get_promotion_app HTTP/1.1 [status]: 200 [response-time]: 1.591 ms [client]: okhttp/3.12.1
+[18: 13: 42] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/undefined HTTP/1.1 [status]: 404 [response-time]: 0.159 ms [client]: okhttp/3.12.1
+[18: 13: 42] [ip]: ::ffff:192.168.1.64 - [method]: POST [url]: /api/v1/app_pro/get_promotion_app HTTP/1.1 [status]: 200 [response-time]: 1.380 ms [client]: okhttp/3.12.1
+[18: 13: 42] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/undefined HTTP/1.1 [status]: 404 [response-time]: 0.120 ms [client]: okhttp/3.12.1
+[18: 13: 42] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/app_pro/img_promotiotion_app HTTP/1.1 [status]: 304 [response-time]: 0.814 ms [client]: okhttp/3.12.1
+[18: 13: 42] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/app_pro/img_promotiotion_app HTTP/1.1 [status]: 304 [response-time]: 0.761 ms [client]: okhttp/3.12.1
+[18: 13: 42] [ip]: ::ffff:192.168.1.20 - [method]: OPTIONS [url]: /api/v1/user/user_login HTTP/1.1 [status]: 200 [response-time]: 0.172 ms [client]: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36
+[18: 13: 42] [ip]: ::ffff:192.168.1.20 - [method]: POST [url]: /api/v1/user/user_login HTTP/1.1 [status]: 200 [response-time]: 87.952 ms [client]: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36
+[18: 13: 42] [ip]: ::ffff:192.168.1.20 - [method]: OPTIONS [url]: /api/v1/user/user_valid HTTP/1.1 [status]: 200 [response-time]: 0.124 ms [client]: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36
+[18: 13: 42] [ip]: ::ffff:192.168.1.20 - [method]: GET [url]: /api/v1/user/user_valid HTTP/1.1 [status]: 200 [response-time]: 0.884 ms [client]: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36
+[18: 13: 42] [ip]: ::ffff:192.168.1.20 - [method]: OPTIONS [url]: /api/v1/product/get_product HTTP/1.1 [status]: 200 [response-time]: 0.398 ms [client]: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36
+[18: 13: 42] [ip]: ::ffff:192.168.1.20 - [method]: GET [url]: /api/v1/product/get_product HTTP/1.1 [status]: 304 [response-time]: 3.113 ms [client]: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36
+[18: 13: 42] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/app_pro/img_promotiotion_app HTTP/1.1 [status]: 304 [response-time]: 0.643 ms [client]: okhttp/3.12.1
+[18: 13: 42] [ip]: ::ffff:192.168.1.20 - [method]: OPTIONS [url]: /api/v1/user/user_valid HTTP/1.1 [status]: 200 [response-time]: 0.137 ms [client]: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36
+[18: 13: 42] [ip]: ::ffff:192.168.1.20 - [method]: GET [url]: /api/v1/user/user_valid HTTP/1.1 [status]: 304 [response-time]: 0.850 ms [client]: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36
+[18: 13: 42] [ip]: ::ffff:192.168.1.20 - [method]: OPTIONS [url]: /api/v1/user/user_valid HTTP/1.1 [status]: 200 [response-time]: 0.116 ms [client]: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36
+[18: 13: 42] [ip]: ::ffff:192.168.1.20 - [method]: GET [url]: /api/v1/user/user_valid HTTP/1.1 [status]: 304 [response-time]: 1.219 ms [client]: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36
+[18: 13: 42] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/app_pro/img_promotiotion_app HTTP/1.1 [status]: 304 [response-time]: 0.719 ms [client]: okhttp/3.12.1
+[18: 13: 42] [ip]: ::ffff:192.168.1.20 - [method]: OPTIONS [url]: /api/v1/user/user_valid HTTP/1.1 [status]: 200 [response-time]: 0.162 ms [client]: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36
+[18: 13: 42] [ip]: ::ffff:192.168.1.20 - [method]: GET [url]: /api/v1/user/user_valid HTTP/1.1 [status]: 304 [response-time]: 0.861 ms [client]: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36
+[18: 13: 42] [ip]: ::ffff:192.168.1.20 - [method]: OPTIONS [url]: /api/v1/product/get_product HTTP/1.1 [status]: 200 [response-time]: 0.139 ms [client]: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36
+[18: 13: 42] [ip]: ::ffff:192.168.1.20 - [method]: GET [url]: /api/v1/product/get_product HTTP/1.1 [status]: 304 [response-time]: 0.981 ms [client]: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36
+[18: 13: 42] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/app_pro/img_promotiotion_app HTTP/1.1 [status]: 304 [response-time]: 0.591 ms [client]: okhttp/3.12.1
+[18: 13: 42] [ip]: ::ffff:192.168.1.20 - [method]: OPTIONS [url]: /api/v1/user/user_valid HTTP/1.1 [status]: 200 [response-time]: 0.122 ms [client]: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36
+[18: 13: 42] [ip]: ::ffff:192.168.1.20 - [method]: GET [url]: /api/v1/user/user_valid HTTP/1.1 [status]: 304 [response-time]: 0.869 ms [client]: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36
+[18: 13: 42] [ip]: ::ffff:192.168.1.20 - [method]: OPTIONS [url]: /api/v1/user/user_valid HTTP/1.1 [status]: 200 [response-time]: 0.128 ms [client]: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36
+[18: 13: 42] [ip]: ::ffff:192.168.1.20 - [method]: GET [url]: /api/v1/user/user_valid HTTP/1.1 [status]: 304 [response-time]: 0.719 ms [client]: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36
+[18: 13: 42] [ip]: ::ffff:192.168.1.20 - [method]: OPTIONS [url]: /api/v1/user/user_valid HTTP/1.1 [status]: 200 [response-time]: 0.123 ms [client]: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36
+[18: 13: 42] [ip]: ::ffff:192.168.1.20 - [method]: GET [url]: /api/v1/user/user_valid HTTP/1.1 [status]: 304 [response-time]: 0.757 ms [client]: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36
+[18: 13: 42] [ip]: ::ffff:192.168.1.20 - [method]: OPTIONS [url]: /api/v1/user/user_valid HTTP/1.1 [status]: 200 [response-time]: 0.141 ms [client]: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36
+[18: 13: 42] [ip]: ::ffff:192.168.1.20 - [method]: GET [url]: /api/v1/user/user_valid HTTP/1.1 [status]: 304 [response-time]: 0.890 ms [client]: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36
+[18: 13: 42] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/user_app/get_train HTTP/1.1 [status]: 304 [response-time]: 0.890 ms [client]: okhttp/3.12.1
+[18: 13: 42] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/user/image/user_54.png HTTP/1.1 [status]: 404 [response-time]: 0.490 ms [client]: okhttp/3.12.1
+[18: 13: 42] [ip]: ::ffff:192.168.1.64 - [method]: POST [url]: /api/v1/user_app/detail_train HTTP/1.1 [status]: 200 [response-time]: 1.562 ms [client]: okhttp/3.12.1
+[18: 13: 42] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/app_pro/get_all_promotion_app HTTP/1.1 [status]: 304 [response-time]: 0.747 ms [client]: okhttp/3.12.1
+[18: 13: 42] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/user_app/get_train HTTP/1.1 [status]: 304 [response-time]: 1.103 ms [client]: okhttp/3.12.1
+[18: 13: 42] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/user/image/user_54.png HTTP/1.1 [status]: 404 [response-time]: 0.131 ms [client]: okhttp/3.12.1
+[18: 13: 42] [ip]: ::ffff:192.168.1.64 - [method]: POST [url]: /api/v1/user_app/detail_train HTTP/1.1 [status]: 200 [response-time]: 1.508 ms [client]: okhttp/3.12.1
+[18: 13: 42] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/app_pro/img_promotiotion_app HTTP/1.1 [status]: 304 [response-time]: 0.609 ms [client]: okhttp/3.12.1
+[18: 13: 42] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/app_pro/img_promotiotion_app HTTP/1.1 [status]: 304 [response-time]: 0.882 ms [client]: okhttp/3.12.1
+[18: 13: 42] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/app_pro/img_promotiotion_app HTTP/1.1 [status]: 304 [response-time]: 8.231 ms [client]: okhttp/3.12.1
+[18: 13: 42] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/app_pro/img_promotiotion_app HTTP/1.1 [status]: 304 [response-time]: 0.878 ms [client]: okhttp/3.12.1
+[18: 13: 42] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/app_pro/img_promotiotion_app HTTP/1.1 [status]: 304 [response-time]: 0.733 ms [client]: okhttp/3.12.1
+[18: 13: 42] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/app_pro/img_promotiotion_app HTTP/1.1 [status]: 304 [response-time]: 0.678 ms [client]: okhttp/3.12.1
+[18: 13: 42] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/app_pro/img_promotiotion_app HTTP/1.1 [status]: 304 [response-time]: 0.776 ms [client]: okhttp/3.12.1
+[18: 13: 42] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/app_pro/img_promotiotion_app HTTP/1.1 [status]: 304 [response-time]: 0.693 ms [client]: okhttp/3.12.1
+[18: 13: 42] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/app_pro/img_promotiotion_app HTTP/1.1 [status]: 304 [response-time]: 0.521 ms [client]: okhttp/3.12.1
+[18: 13: 42] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/app_pro/img_promotiotion_app HTTP/1.1 [status]: 304 [response-time]: 0.628 ms [client]: okhttp/3.12.1
+[18: 13: 42] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/app_pro/img_promotiotion_app HTTP/1.1 [status]: 304 [response-time]: 1.054 ms [client]: okhttp/3.12.1
+[18: 13: 42] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/app_pro/img_promotiotion_app HTTP/1.1 [status]: 304 [response-time]: 0.724 ms [client]: okhttp/3.12.1
+[18: 13: 42] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/app_pro/img_promotiotion_app HTTP/1.1 [status]: 304 [response-time]: 0.575 ms [client]: okhttp/3.12.1
+[18: 13: 42] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/app_pro/img_promotiotion_app HTTP/1.1 [status]: 304 [response-time]: 0.688 ms [client]: okhttp/3.12.1
+[18: 13: 42] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/app_pro/img_promotiotion_app HTTP/1.1 [status]: 304 [response-time]: 0.852 ms [client]: okhttp/3.12.1
+[18: 13: 42] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/app_pro/img_promotiotion_app HTTP/1.1 [status]: 304 [response-time]: 0.724 ms [client]: okhttp/3.12.1
+[18: 13: 42] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/user_app/get_train HTTP/1.1 [status]: 304 [response-time]: 1.491 ms [client]: okhttp/3.12.1
+[18: 13: 42] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/user/image/user_54.png HTTP/1.1 [status]: 404 [response-time]: 0.325 ms [client]: okhttp/3.12.1
+[18: 13: 42] [ip]: ::ffff:192.168.1.64 - [method]: POST [url]: /api/v1/user_app/detail_train HTTP/1.1 [status]: 200 [response-time]: 2.068 ms [client]: okhttp/3.12.1
+[18: 13: 42] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/app_pro/get_all_promotion_app HTTP/1.1 [status]: 304 [response-time]: 0.694 ms [client]: okhttp/3.12.1
+[18: 13: 42] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/app_pro/get_all_promotion_app HTTP/1.1 [status]: 304 [response-time]: 0.686 ms [client]: okhttp/3.12.1
+[18: 13: 42] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/app_pro/img_promotiotion_app HTTP/1.1 [status]: 304 [response-time]: 0.646 ms [client]: okhttp/3.12.1
+[18: 13: 42] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/app_pro/get_all_promotion_app HTTP/1.1 [status]: 304 [response-time]: 0.793 ms [client]: okhttp/3.12.1
+[18: 13: 42] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/app_pro/get_all_promotion_app HTTP/1.1 [status]: 304 [response-time]: 0.637 ms [client]: okhttp/3.12.1
+[18: 13: 42] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/app_pro/get_all_promotion_app HTTP/1.1 [status]: 304 [response-time]: 0.700 ms [client]: okhttp/3.12.1
+[18: 13: 42] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/app_pro/get_all_promotion_app HTTP/1.1 [status]: 304 [response-time]: 0.647 ms [client]: okhttp/3.12.1
+[18: 13: 42] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/app_pro/get_all_promotion_app HTTP/1.1 [status]: 304 [response-time]: 2.925 ms [client]: okhttp/3.12.1
+[18: 13: 42] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/user_app/get_train HTTP/1.1 [status]: 304 [response-time]: 0.840 ms [client]: okhttp/3.12.1
+[18: 13: 42] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/user/image/user_54.png HTTP/1.1 [status]: 404 [response-time]: 0.143 ms [client]: okhttp/3.12.1
+[18: 13: 42] [ip]: ::ffff:192.168.1.64 - [method]: POST [url]: /api/v1/user_app/detail_train HTTP/1.1 [status]: 200 [response-time]: 1.485 ms [client]: okhttp/3.12.1
+[18: 13: 42] [ip]: ::ffff:192.168.1.64 - [method]: POST [url]: /api/v1/user_app/detail_train HTTP/1.1 [status]: 200 [response-time]: 1.487 ms [client]: okhttp/3.12.1
+[18: 13: 42] [ip]: ::ffff:192.168.1.64 - [method]: POST [url]: /api/v1/user_app/detail_train HTTP/1.1 [status]: 200 [response-time]: 1.547 ms [client]: okhttp/3.12.1
+[18: 13: 42] [ip]: ::ffff:192.168.1.64 - [method]: POST [url]: /api/v1/user_app/detail_train HTTP/1.1 [status]: 200 [response-time]: 1.376 ms [client]: okhttp/3.12.1
+[18: 13: 42] [ip]: ::ffff:192.168.1.64 - [method]: POST [url]: /api/v1/user_app/detail_train HTTP/1.1 [status]: 200 [response-time]: 1.476 ms [client]: okhttp/3.12.1
+[18: 13: 42] [ip]: ::ffff:192.168.1.64 - [method]: POST [url]: /api/v1/user_app/detail_train HTTP/1.1 [status]: 200 [response-time]: 1.424 ms [client]: okhttp/3.12.1
+[18: 13: 42] [ip]: ::ffff:192.168.1.64 - [method]: POST [url]: /api/v1/user_app/detail_train HTTP/1.1 [status]: 200 [response-time]: 1.641 ms [client]: okhttp/3.12.1
+[18: 13: 42] [ip]: ::ffff:192.168.1.64 - [method]: POST [url]: /api/v1/user_app/detail_train HTTP/1.1 [status]: 200 [response-time]: 1.434 ms [client]: okhttp/3.12.1
+[18: 13: 42] [ip]: ::ffff:192.168.1.64 - [method]: POST [url]: /api/v1/user_app/detail_train HTTP/1.1 [status]: 200 [response-time]: 1.555 ms [client]: okhttp/3.12.1
+[18: 13: 42] [ip]: ::ffff:192.168.1.64 - [method]: POST [url]: /api/v1/user_app/detail_train HTTP/1.1 [status]: 200 [response-time]: 1.961 ms [client]: okhttp/3.12.1
+[18: 13: 42] [ip]: ::ffff:192.168.1.64 - [method]: POST [url]: /api/v1/user_app/detail_train HTTP/1.1 [status]: 200 [response-time]: 1.943 ms [client]: okhttp/3.12.1
+[18: 13: 42] [ip]: ::ffff:192.168.1.64 - [method]: POST [url]: /api/v1/user_app/detail_train HTTP/1.1 [status]: 200 [response-time]: 1.418 ms [client]: okhttp/3.12.1
+[18: 13: 42] [ip]: ::ffff:192.168.1.64 - [method]: POST [url]: /api/v1/user_app/detail_train HTTP/1.1 [status]: 200 [response-time]: 1.280 ms [client]: okhttp/3.12.1
+[18: 13: 42] [ip]: ::ffff:192.168.1.64 - [method]: POST [url]: /api/v1/user_app/detail_train HTTP/1.1 [status]: 200 [response-time]: 1.267 ms [client]: okhttp/3.12.1
+[18: 13: 42] [ip]: ::ffff:192.168.1.64 - [method]: POST [url]: /api/v1/user_app/detail_train HTTP/1.1 [status]: 200 [response-time]: 1.581 ms [client]: okhttp/3.12.1
+[18: 13: 42] [ip]: ::ffff:192.168.1.64 - [method]: POST [url]: /api/v1/user_app/detail_train HTTP/1.1 [status]: 200 [response-time]: 1.449 ms [client]: okhttp/3.12.1
+[18: 13: 42] [ip]: ::ffff:192.168.1.64 - [method]: POST [url]: /api/v1/user_app/detail_train HTTP/1.1 [status]: 200 [response-time]: 1.220 ms [client]: okhttp/3.12.1
+[18: 13: 42] [ip]: ::ffff:192.168.1.64 - [method]: POST [url]: /api/v1/user_app/detail_train HTTP/1.1 [status]: 200 [response-time]: 1.430 ms [client]: okhttp/3.12.1
+[18: 13: 42] [ip]: ::ffff:192.168.1.64 - [method]: POST [url]: /api/v1/user_app/detail_train HTTP/1.1 [status]: 200 [response-time]: 1.398 ms [client]: okhttp/3.12.1
+[18: 13: 42] [ip]: ::ffff:192.168.1.64 - [method]: POST [url]: /api/v1/user_app/detail_train HTTP/1.1 [status]: 200 [response-time]: 1.496 ms [client]: okhttp/3.12.1
+[18: 13: 42] [ip]: ::ffff:192.168.1.64 - [method]: POST [url]: /api/v1/user_app/detail_train HTTP/1.1 [status]: 200 [response-time]: 1.448 ms [client]: okhttp/3.12.1
+[18: 13: 42] [ip]: ::ffff:192.168.1.64 - [method]: POST [url]: /api/v1/user_app/detail_train HTTP/1.1 [status]: 200 [response-time]: 1.449 ms [client]: okhttp/3.12.1
+[18: 13: 42] [ip]: ::ffff:192.168.1.64 - [method]: POST [url]: /api/v1/user_app/detail_train HTTP/1.1 [status]: 200 [response-time]: 2.911 ms [client]: okhttp/3.12.1
+[18: 13: 42] [ip]: ::ffff:192.168.1.64 - [method]: POST [url]: /api/v1/user_app/detail_train HTTP/1.1 [status]: 200 [response-time]: 1.429 ms [client]: okhttp/3.12.1
+[18: 13: 42] [ip]: ::ffff:192.168.1.64 - [method]: POST [url]: /api/v1/user_app/detail_train HTTP/1.1 [status]: 200 [response-time]: 1.444 ms [client]: okhttp/3.12.1
+[18: 13: 42] [ip]: ::ffff:192.168.1.64 - [method]: POST [url]: /api/v1/user_app/detail_train HTTP/1.1 [status]: 200 [response-time]: 1.547 ms [client]: okhttp/3.12.1
+[18: 13: 42] [ip]: ::ffff:192.168.1.64 - [method]: POST [url]: /api/v1/user_app/detail_train HTTP/1.1 [status]: 200 [response-time]: 1.432 ms [client]: okhttp/3.12.1
+[18: 13: 42] [ip]: ::ffff:192.168.1.64 - [method]: POST [url]: /api/v1/user_app/detail_train HTTP/1.1 [status]: 200 [response-time]: 1.858 ms [client]: okhttp/3.12.1
+[18: 13: 42] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/app_pro/img_promotiotion_app HTTP/1.1 [status]: 304 [response-time]: 0.707 ms [client]: okhttp/3.12.1
+[18: 13: 42] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/app_pro/get_all_promotion_app HTTP/1.1 [status]: 304 [response-time]: 0.572 ms [client]: okhttp/3.12.1
+[18: 13: 42] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/user_app/get_train HTTP/1.1 [status]: 304 [response-time]: 2.199 ms [client]: okhttp/3.12.1
+[18: 13: 42] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/user/image/user_54.png HTTP/1.1 [status]: 404 [response-time]: 0.121 ms [client]: okhttp/3.12.1
+[18: 13: 42] [ip]: ::ffff:192.168.1.64 - [method]: POST [url]: /api/v1/user_app/detail_train HTTP/1.1 [status]: 200 [response-time]: 2.994 ms [client]: okhttp/3.12.1
+[18: 13: 42] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/app_pro/img_promotiotion_app HTTP/1.1 [status]: 304 [response-time]: 0.598 ms [client]: okhttp/3.12.1
+[18: 13: 42] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/user_app/get_train HTTP/1.1 [status]: 304 [response-time]: 0.845 ms [client]: okhttp/3.12.1
+[18: 13: 42] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/user/image/user_54.png HTTP/1.1 [status]: 404 [response-time]: 0.186 ms [client]: okhttp/3.12.1
+[18: 13: 42] [ip]: ::ffff:192.168.1.64 - [method]: POST [url]: /api/v1/user_app/detail_train HTTP/1.1 [status]: 200 [response-time]: 1.361 ms [client]: okhttp/3.12.1
+[18: 13: 42] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/app_pro/img_promotiotion_app HTTP/1.1 [status]: 304 [response-time]: 0.660 ms [client]: okhttp/3.12.1
+[18: 13: 42] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/user_app/get_train HTTP/1.1 [status]: 304 [response-time]: 0.907 ms [client]: okhttp/3.12.1
+[18: 13: 42] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/user/image/user_54.png HTTP/1.1 [status]: 404 [response-time]: 0.119 ms [client]: okhttp/3.12.1
+[18: 13: 42] [ip]: ::ffff:192.168.1.64 - [method]: POST [url]: /api/v1/user_app/detail_train HTTP/1.1 [status]: 200 [response-time]: 1.343 ms [client]: okhttp/3.12.1
+[18: 13: 42] [ip]: ::ffff:192.168.1.64 - [method]: POST [url]: /api/v1/user_app/detail_train HTTP/1.1 [status]: 200 [response-time]: 1.569 ms [client]: okhttp/3.12.1
+[18: 13: 42] [ip]: ::ffff:192.168.1.64 - [method]: POST [url]: /api/v1/user_app/detail_train HTTP/1.1 [status]: 200 [response-time]: 1.429 ms [client]: okhttp/3.12.1
+[18: 13: 42] [ip]: ::ffff:192.168.1.64 - [method]: POST [url]: /api/v1/user_app/detail_train HTTP/1.1 [status]: 200 [response-time]: 1.522 ms [client]: okhttp/3.12.1
+[18: 13: 42] [ip]: ::ffff:192.168.1.20 - [method]: OPTIONS [url]: /api/v1/user/user_valid HTTP/1.1 [status]: 200 [response-time]: 0.309 ms [client]: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36
+[18: 13: 42] [ip]: ::ffff:192.168.1.20 - [method]: GET [url]: /api/v1/user/user_valid HTTP/1.1 [status]: 304 [response-time]: 1.064 ms [client]: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36
+[18: 13: 42] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/user/image/user_54.png HTTP/1.1 [status]: 404 [response-time]: 0.143 ms [client]: okhttp/3.12.1
+[18: 13: 42] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/app_pro/img_promotiotion_app HTTP/1.1 [status]: 304 [response-time]: 2.768 ms [client]: okhttp/3.12.1
+[18: 13: 42] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/user_app/get_train HTTP/1.1 [status]: 304 [response-time]: 0.821 ms [client]: okhttp/3.12.1
+[18: 13: 42] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/user/image/user_54.png HTTP/1.1 [status]: 404 [response-time]: 0.118 ms [client]: okhttp/3.12.1
+[18: 13: 42] [ip]: ::ffff:192.168.1.64 - [method]: POST [url]: /api/v1/user_app/detail_train HTTP/1.1 [status]: 200 [response-time]: 1.408 ms [client]: okhttp/3.12.1
+[18: 13: 42] [ip]: ::ffff:192.168.1.64 - [method]: POST [url]: /api/v1/user_app/detail_train HTTP/1.1 [status]: 200 [response-time]: 1.246 ms [client]: okhttp/3.12.1
+[18: 13: 42] [ip]: ::ffff:192.168.1.64 - [method]: POST [url]: /api/v1/user_app/detail_train HTTP/1.1 [status]: 200 [response-time]: 1.416 ms [client]: okhttp/3.12.1
+[18: 13: 42] [ip]: ::ffff:192.168.1.64 - [method]: POST [url]: /api/v1/user_app/detail_train HTTP/1.1 [status]: 200 [response-time]: 1.304 ms [client]: okhttp/3.12.1
+[18: 13: 42] [ip]: ::ffff:192.168.1.64 - [method]: POST [url]: /api/v1/user_app/detail_train HTTP/1.1 [status]: 200 [response-time]: 1.395 ms [client]: okhttp/3.12.1
+[18: 13: 42] [ip]: ::ffff:192.168.1.64 - [method]: POST [url]: /api/v1/user_app/detail_train HTTP/1.1 [status]: 200 [response-time]: 1.442 ms [client]: okhttp/3.12.1
+[18: 13: 42] [ip]: ::ffff:192.168.1.64 - [method]: POST [url]: /api/v1/user_app/detail_train HTTP/1.1 [status]: 200 [response-time]: 1.450 ms [client]: okhttp/3.12.1
+[18: 13: 42] [ip]: ::ffff:192.168.1.64 - [method]: POST [url]: /api/v1/user_app/detail_train HTTP/1.1 [status]: 200 [response-time]: 2.136 ms [client]: okhttp/3.12.1
+[18: 13: 42] [ip]: ::ffff:192.168.1.64 - [method]: POST [url]: /api/v1/user_app/detail_train HTTP/1.1 [status]: 200 [response-time]: 1.454 ms [client]: okhttp/3.12.1
+[18: 13: 42] [ip]: ::ffff:192.168.1.64 - [method]: POST [url]: /api/v1/user_app/detail_train HTTP/1.1 [status]: 200 [response-time]: 1.464 ms [client]: okhttp/3.12.1
+[18: 13: 42] [ip]: ::ffff:192.168.1.64 - [method]: POST [url]: /api/v1/user_app/detail_train HTTP/1.1 [status]: 200 [response-time]: 1.686 ms [client]: okhttp/3.12.1
+[18: 13: 42] [ip]: ::ffff:192.168.1.64 - [method]: POST [url]: /api/v1/user_app/detail_train HTTP/1.1 [status]: 200 [response-time]: 1.098 ms [client]: okhttp/3.12.1
+[18: 13: 42] [ip]: ::ffff:192.168.1.64 - [method]: POST [url]: /api/v1/user_app/detail_train HTTP/1.1 [status]: 200 [response-time]: 1.055 ms [client]: okhttp/3.12.1
+[18: 13: 42] [ip]: ::ffff:192.168.1.64 - [method]: POST [url]: /api/v1/user_app/detail_train HTTP/1.1 [status]: 200 [response-time]: 1.416 ms [client]: okhttp/3.12.1
+[18: 13: 42] [ip]: ::ffff:192.168.1.64 - [method]: POST [url]: /api/v1/user_app/detail_train HTTP/1.1 [status]: 200 [response-time]: 1.428 ms [client]: okhttp/3.12.1
+[18: 13: 42] [ip]: ::ffff:192.168.1.64 - [method]: POST [url]: /api/v1/user_app/detail_train HTTP/1.1 [status]: 200 [response-time]: 1.474 ms [client]: okhttp/3.12.1
+[18: 13: 42] [ip]: ::ffff:192.168.1.64 - [method]: POST [url]: /api/v1/user_app/detail_train HTTP/1.1 [status]: 200 [response-time]: 1.451 ms [client]: okhttp/3.12.1
+[18: 13: 42] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/user/image/user_54.png HTTP/1.1 [status]: 404 [response-time]: 0.121 ms [client]: okhttp/3.12.1
+[18: 13: 42] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/app_pro/get_all_promotion_app HTTP/1.1 [status]: 304 [response-time]: 0.601 ms [client]: okhttp/3.12.1
+[18: 13: 42] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/user_app/get_train HTTP/1.1 [status]: 304 [response-time]: 0.599 ms [client]: okhttp/3.12.1
+[18: 13: 42] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/user/image/user_54.png HTTP/1.1 [status]: 404 [response-time]: 0.103 ms [client]: okhttp/3.12.1
+[18: 13: 42] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/user_app/get_train HTTP/1.1 [status]: 304 [response-time]: 1.231 ms [client]: okhttp/3.12.1
+[18: 13: 42] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/user/image/user_54.png HTTP/1.1 [status]: 404 [response-time]: 0.129 ms [client]: okhttp/3.12.1
+[18: 13: 42] [ip]: ::ffff:192.168.1.64 - [method]: POST [url]: /api/v1/user_app/detail_train HTTP/1.1 [status]: 200 [response-time]: 1.254 ms [client]: okhttp/3.12.1
+[18: 13: 42] [ip]: ::ffff:192.168.1.64 - [method]: POST [url]: /api/v1/user_app/detail_train HTTP/1.1 [status]: 200 [response-time]: 1.375 ms [client]: okhttp/3.12.1
+[18: 13: 42] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/app_pro/img_promotiotion_app HTTP/1.1 [status]: 304 [response-time]: 0.806 ms [client]: okhttp/3.12.1
+[18: 13: 42] [ip]: ::ffff:192.168.1.64 - [method]: POST [url]: /api/v1/app_pro/get_promotion_app HTTP/1.1 [status]: 200 [response-time]: 1.565 ms [client]: okhttp/3.12.1
+[18: 13: 42] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/undefined HTTP/1.1 [status]: 404 [response-time]: 0.165 ms [client]: okhttp/3.12.1
+[18: 13: 42] [ip]: ::ffff:192.168.1.64 - [method]: POST [url]: /api/v1/app_pro/get_promotion_app HTTP/1.1 [status]: 200 [response-time]: 1.369 ms [client]: okhttp/3.12.1
+[18: 13: 42] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/undefined HTTP/1.1 [status]: 404 [response-time]: 0.117 ms [client]: okhttp/3.12.1
+[18: 13: 42] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/app_pro/img_promotiotion_app HTTP/1.1 [status]: 304 [response-time]: 0.756 ms [client]: okhttp/3.12.1
+[18: 13: 42] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/app_pro/img_promotiotion_app HTTP/1.1 [status]: 304 [response-time]: 0.634 ms [client]: okhttp/3.12.1
+[18: 13: 42] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/app_pro/img_promotiotion_app HTTP/1.1 [status]: 304 [response-time]: 0.606 ms [client]: okhttp/3.12.1
+[18: 13: 42] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/app_pro/img_promotiotion_app HTTP/1.1 [status]: 304 [response-time]: 0.943 ms [client]: okhttp/3.12.1
+[18: 13: 42] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/app_pro/img_promotiotion_app HTTP/1.1 [status]: 304 [response-time]: 0.587 ms [client]: okhttp/3.12.1
+[18: 13: 42] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/app_pro/img_promotiotion_app HTTP/1.1 [status]: 304 [response-time]: 1.121 ms [client]: okhttp/3.12.1
+[18: 13: 42] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/app_pro/img_promotiotion_app HTTP/1.1 [status]: 304 [response-time]: 0.697 ms [client]: okhttp/3.12.1
+[18: 13: 42] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/app_pro/img_promotiotion_app HTTP/1.1 [status]: 304 [response-time]: 0.634 ms [client]: okhttp/3.12.1
+[18: 13: 42] [ip]: ::ffff:192.168.1.20 - [method]: OPTIONS [url]: /api/v1/app/app_gym HTTP/1.1 [status]: 404 [response-time]: 0.265 ms [client]: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36
+[18: 13: 42] [ip]: ::ffff:192.168.1.20 - [method]: OPTIONS [url]: /api/v1/app/app_gym HTTP/1.1 [status]: 404 [response-time]: 0.149 ms [client]: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36
+[18: 13: 42] [ip]: ::ffff:192.168.1.20 - [method]: OPTIONS [url]: /api/v1/app/app_gym HTTP/1.1 [status]: 404 [response-time]: 0.127 ms [client]: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36
+[18: 13: 42] [ip]: ::ffff:192.168.1.20 - [method]: OPTIONS [url]: /api/v1/app/app_gym HTTP/1.1 [status]: 404 [response-time]: 0.104 ms [client]: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36
+[18: 13: 42] [ip]: ::ffff:192.168.1.20 - [method]: OPTIONS [url]: /api/v1/app/app_gym HTTP/1.1 [status]: 404 [response-time]: 0.103 ms [client]: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36
+[18: 13: 42] [ip]: ::ffff:192.168.1.20 - [method]: OPTIONS [url]: /api/v1/app/app_gym HTTP/1.1 [status]: 404 [response-time]: 0.119 ms [client]: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36
+[18: 13: 42] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/user_app/get_train HTTP/1.1 [status]: 304 [response-time]: 37.817 ms [client]: okhttp/3.12.1
+[18: 13: 42] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/user/image/user_54.png HTTP/1.1 [status]: 404 [response-time]: 0.120 ms [client]: okhttp/3.12.1
+[18: 13: 42] [ip]: ::ffff:192.168.1.64 - [method]: POST [url]: /api/v1/user_app/detail_train HTTP/1.1 [status]: 200 [response-time]: 6.531 ms [client]: okhttp/3.12.1
+[18: 13: 42] [ip]: ::ffff:192.168.1.20 - [method]: OPTIONS [url]: /api/v1/app/add_gym HTTP/1.1 [status]: 200 [response-time]: 0.255 ms [client]: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36
+[18: 13: 42] [ip]: ::ffff:192.168.1.20 - [method]: POST [url]: /api/v1/app/add_gym HTTP/1.1 [status]: 200 [response-time]: 120.984 ms [client]: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36
+[18: 13: 42] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/user_app/get_train HTTP/1.1 [status]: 304 [response-time]: 0.658 ms [client]: okhttp/3.12.1
+[18: 13: 42] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/user/image/user_54.png HTTP/1.1 [status]: 404 [response-time]: 0.139 ms [client]: okhttp/3.12.1
+[18: 13: 42] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/user_app/get_train HTTP/1.1 [status]: 304 [response-time]: 0.914 ms [client]: okhttp/3.12.1
+[18: 13: 42] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/user/image/user_54.png HTTP/1.1 [status]: 404 [response-time]: 0.117 ms [client]: okhttp/3.12.1
+[18: 13: 42] [ip]: ::ffff:192.168.1.64 - [method]: POST [url]: /api/v1/user_app/detail_train HTTP/1.1 [status]: 200 [response-time]: 2.471 ms [client]: okhttp/3.12.1
+[18: 13: 42] [ip]: ::ffff:192.168.1.64 - [method]: POST [url]: /api/v1/user_app/detail_train HTTP/1.1 [status]: 200 [response-time]: 1.801 ms [client]: okhttp/3.12.1
+[18: 13: 42] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/course/get_all HTTP/1.1 [status]: 304 [response-time]: 85.157 ms [client]: okhttp/3.12.1
+[18: 13: 42] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/course/all_course HTTP/1.1 [status]: 304 [response-time]: 1.725 ms [client]: okhttp/3.12.1
+[18: 13: 42] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/user_app/get_train HTTP/1.1 [status]: 304 [response-time]: 0.804 ms [client]: okhttp/3.12.1
+[18: 13: 42] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/user/image/user_54.png HTTP/1.1 [status]: 404 [response-time]: 0.202 ms [client]: okhttp/3.12.1
+[18: 13: 42] [ip]: ::ffff:192.168.1.64 - [method]: POST [url]: /api/v1/user_app/detail_train HTTP/1.1 [status]: 200 [response-time]: 2.632 ms [client]: okhttp/3.12.1
+[22: 25: 00] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/app_pro/img_promotiotion_app HTTP/1.1 [status]: 304 [response-time]: 4.361 ms [client]: okhttp/3.12.1
+[22: 25: 00] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/app_pro/img_promotiotion_app HTTP/1.1 [status]: 304 [response-time]: 0.998 ms [client]: okhttp/3.12.1
+[22: 25: 00] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/app_pro/img_promotiotion_app HTTP/1.1 [status]: 304 [response-time]: 0.917 ms [client]: okhttp/3.12.1
+[22: 25: 00] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/app_pro/img_promotiotion_app HTTP/1.1 [status]: 304 [response-time]: 0.988 ms [client]: okhttp/3.12.1
+[22: 25: 00] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/app_pro/img_promotiotion_app HTTP/1.1 [status]: 304 [response-time]: 0.763 ms [client]: okhttp/3.12.1
+[22: 25: 00] [ip]: ::ffff:192.168.1.20 - [method]: OPTIONS [url]: /api/v1/user/user_valid HTTP/1.1 [status]: 200 [response-time]: 1.107 ms [client]: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36
+[22: 25: 00] [ip]: ::ffff:192.168.1.20 - [method]: GET [url]: /api/v1/user/user_valid HTTP/1.1 [status]: 304 [response-time]: 2.869 ms [client]: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36
+[22: 25: 00] [ip]: ::ffff:192.168.1.20 - [method]: OPTIONS [url]: /api/v1/user/user_valid HTTP/1.1 [status]: 200 [response-time]: 0.141 ms [client]: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36
+[22: 25: 00] [ip]: ::ffff:192.168.1.20 - [method]: GET [url]: /api/v1/user/user_valid HTTP/1.1 [status]: 200 [response-time]: 0.227 ms [client]: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36
+[22: 25: 00] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/app_pro/img_promotiotion_app HTTP/1.1 [status]: 304 [response-time]: 0.904 ms [client]: okhttp/3.12.1
+[22: 25: 00] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/app_pro/img_promotiotion_app HTTP/1.1 [status]: 304 [response-time]: 0.773 ms [client]: okhttp/3.12.1
+[22: 25: 00] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/app_pro/get_all_promotion_app HTTP/1.1 [status]: 304 [response-time]: 0.961 ms [client]: okhttp/3.12.1
+[22: 25: 00] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/app_pro/get_all_promotion_app HTTP/1.1 [status]: 304 [response-time]: 0.740 ms [client]: okhttp/3.12.1
+[22: 25: 00] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/user_app/get_train HTTP/1.1 [status]: 304 [response-time]: 1.153 ms [client]: okhttp/3.12.1
+[22: 25: 00] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/user/image/user_54.png HTTP/1.1 [status]: 404 [response-time]: 1.186 ms [client]: okhttp/3.12.1
+[22: 25: 00] [ip]: ::ffff:192.168.1.64 - [method]: POST [url]: /api/v1/user_app/detail_train HTTP/1.1 [status]: 200 [response-time]: 3.000 ms [client]: okhttp/3.12.1
+[22: 25: 00] [ip]: ::ffff:192.168.1.64 - [method]: POST [url]: /api/v1/user_app/detail_train HTTP/1.1 [status]: 200 [response-time]: 1.642 ms [client]: okhttp/3.12.1
+[22: 25: 00] [ip]: ::ffff:192.168.1.64 - [method]: POST [url]: /api/v1/user_app/detail_train HTTP/1.1 [status]: 200 [response-time]: 1.454 ms [client]: okhttp/3.12.1
+[22: 25: 00] [ip]: ::ffff:192.168.1.64 - [method]: POST [url]: /api/v1/user_app/detail_train HTTP/1.1 [status]: 200 [response-time]: 1.348 ms [client]: okhttp/3.12.1
+[22: 25: 00] [ip]: ::ffff:192.168.1.64 - [method]: POST [url]: /api/v1/user_app/detail_train HTTP/1.1 [status]: 200 [response-time]: 1.536 ms [client]: okhttp/3.12.1
+[22: 25: 00] [ip]: ::ffff:192.168.1.64 - [method]: POST [url]: /api/v1/user_app/detail_train HTTP/1.1 [status]: 200 [response-time]: 1.472 ms [client]: okhttp/3.12.1
+[22: 25: 00] [ip]: ::ffff:192.168.1.64 - [method]: POST [url]: /api/v1/user_app/detail_train HTTP/1.1 [status]: 200 [response-time]: 1.327 ms [client]: okhttp/3.12.1
+[22: 25: 00] [ip]: ::ffff:192.168.1.64 - [method]: POST [url]: /api/v1/user_app/detail_train HTTP/1.1 [status]: 200 [response-time]: 1.522 ms [client]: okhttp/3.12.1
+[22: 25: 00] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/app_pro/img_promotiotion_app HTTP/1.1 [status]: 304 [response-time]: 0.911 ms [client]: okhttp/3.12.1
+[22: 25: 00] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/app_pro/img_promotiotion_app HTTP/1.1 [status]: 304 [response-time]: 1.271 ms [client]: okhttp/3.12.1
+[22: 25: 00] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/user_app/get_train HTTP/1.1 [status]: 304 [response-time]: 1.574 ms [client]: okhttp/3.12.1
+[22: 25: 00] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/user/image/user_54.png HTTP/1.1 [status]: 404 [response-time]: 0.266 ms [client]: okhttp/3.12.1
+[22: 25: 00] [ip]: ::ffff:192.168.1.64 - [method]: POST [url]: /api/v1/user_app/detail_train HTTP/1.1 [status]: 200 [response-time]: 1.623 ms [client]: okhttp/3.12.1
+[22: 25: 00] [ip]: ::ffff:192.168.1.64 - [method]: POST [url]: /api/v1/user_app/detail_train HTTP/1.1 [status]: 200 [response-time]: 1.530 ms [client]: okhttp/3.12.1
+[22: 25: 00] [ip]: ::ffff:192.168.1.64 - [method]: GET [url]: /api/v1/app_pro/get_all_promotion_app HTTP/1.1 [status]: 304 [response-time]: 0.804 ms [client]: okhttp/3.12.1

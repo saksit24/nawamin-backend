@@ -1,0 +1,3 @@
+[16: 34: 21] [ip]: ::ffff:127.0.0.1 - [method]: POST [url]: /api/v1/pos/user_access HTTP/1.1 [status]: 200 [response-time]: 360.118 ms [client]: PostmanRuntime/7.19.0
+[16: 34: 21] [ip]: ::ffff:127.0.0.1 - [method]: POST [url]: /api/v1/pos/user_access HTTP/1.1 [status]: 200 [response-time]: 410.510 ms [client]: PostmanRuntime/7.19.0
+[16: 34: 21] [ip]: ::ffff:127.0.0.1 - [method]: POST [url]: /api/v1/pos/user_access HTTP/1.1 [status]: 200 [response-time]: 298.915 ms [client]: PostmanRuntime/7.19.0

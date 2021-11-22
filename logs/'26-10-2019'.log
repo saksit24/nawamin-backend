@@ -1,0 +1,14 @@
+[18: 30: 36] [ip]: ::ffff:192.168.137.182 - [method]: POST [url]: /api/v1/user_app/app_login HTTP/1.1 [status]: 200 [response-time]: 133.751 ms [client]: okhttp/3.12.1
+[18: 30: 36] [ip]: ::ffff:192.168.137.182 - [method]: GET [url]: /api/v1/app_pro/img_promotiotion_app HTTP/1.1 [status]: 304 [response-time]: 12.337 ms [client]: okhttp/3.12.1
+[18: 30: 36] [ip]: ::ffff:192.168.137.182 - [method]: GET [url]: /api/v1/user_app/get_train HTTP/1.1 [status]: 304 [response-time]: 4.935 ms [client]: okhttp/3.12.1
+[18: 30: 36] [ip]: ::ffff:192.168.137.182 - [method]: GET [url]: /api/v1/undefined HTTP/1.1 [status]: 404 [response-time]: 1.170 ms [client]: okhttp/3.12.1
+[18: 30: 36] [ip]: ::ffff:192.168.137.182 - [method]: GET [url]: /api/v1/app/get_gym HTTP/1.1 [status]: 304 [response-time]: 9.842 ms [client]: okhttp/3.12.1
+[18: 30: 36] [ip]: ::ffff:192.168.137.182 - [method]: GET [url]: /api/v1/user_app/get_user HTTP/1.1 [status]: 200 [response-time]: 6.226 ms [client]: okhttp/3.12.1
+[18: 30: 36] [ip]: ::ffff:192.168.137.182 - [method]: GET [url]: /api/v1/user_app/get_user_update HTTP/1.1 [status]: 200 [response-time]: 1.869 ms [client]: okhttp/3.12.1
+[18: 30: 36] [ip]: ::ffff:192.168.137.182 - [method]: POST [url]: /api/v1/user_app/app_login HTTP/1.1 [status]: 200 [response-time]: 68.317 ms [client]: okhttp/3.12.1
+[18: 30: 36] [ip]: ::ffff:192.168.137.182 - [method]: GET [url]: /api/v1/app_pro/img_promotiotion_app HTTP/1.1 [status]: 304 [response-time]: 0.695 ms [client]: okhttp/3.12.1
+[18: 30: 36] [ip]: ::ffff:192.168.137.182 - [method]: GET [url]: /api/v1/user_app/get_user HTTP/1.1 [status]: 304 [response-time]: 1.649 ms [client]: okhttp/3.12.1
+[18: 30: 36] [ip]: ::ffff:192.168.137.182 - [method]: GET [url]: /api/v1/user_app/get_user_update HTTP/1.1 [status]: 304 [response-time]: 2.507 ms [client]: okhttp/3.12.1
+[18: 30: 36] [ip]: ::ffff:192.168.137.182 - [method]: GET [url]: /api/v1/app/get_gym HTTP/1.1 [status]: 304 [response-time]: 3.268 ms [client]: okhttp/3.12.1
+[18: 30: 36] [ip]: ::ffff:192.168.137.182 - [method]: POST [url]: /api/v1/app_pro/get_promotion_app HTTP/1.1 [status]: 200 [response-time]: 2.024 ms [client]: okhttp/3.12.1
+[18: 30: 36] [ip]: ::ffff:192.168.137.182 - [method]: GET [url]: /api/v1/undefined HTTP/1.1 [status]: 404 [response-time]: 0.226 ms [client]: okhttp/3.12.1

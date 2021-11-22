@@ -1,0 +1,12 @@
+[14: 56: 18] [ip]: ::ffff:192.168.137.18 - [method]: POST [url]: /api/v1/user_app/app_login HTTP/1.1 [status]: 200 [response-time]: 136.667 ms [client]: okhttp/3.12.1
+[14: 56: 18] [ip]: ::ffff:192.168.137.18 - [method]: GET [url]: /api/v1/app_pro/img_promotiotion_app HTTP/1.1 [status]: 200 [response-time]: 6.119 ms [client]: okhttp/3.12.1
+[14: 56: 18] [ip]: ::ffff:192.168.137.18 - [method]: GET [url]: /api/v1/promotion/image/promotion_20.png HTTP/1.1 [status]: 200 [response-time]: 19.211 ms [client]: okhttp/3.12.1
+[14: 56: 18] [ip]: ::ffff:192.168.137.18 - [method]: GET [url]: /api/v1/promotion/image/promotion_18.png HTTP/1.1 [status]: 200 [response-time]: 3.276 ms [client]: okhttp/3.12.1
+[14: 56: 18] [ip]: ::ffff:192.168.137.18 - [method]: GET [url]: /api/v1/promotion/image/promotion_19.png HTTP/1.1 [status]: 200 [response-time]: 4.196 ms [client]: okhttp/3.12.1
+[14: 56: 18] [ip]: ::ffff:192.168.137.18 - [method]: GET [url]: /api/v1/user_app/get_user HTTP/1.1 [status]: 200 [response-time]: 6.413 ms [client]: okhttp/3.12.1
+[14: 56: 18] [ip]: ::ffff:192.168.137.18 - [method]: GET [url]: /api/v1/user_app/get_user_update HTTP/1.1 [status]: 200 [response-time]: 2.138 ms [client]: okhttp/3.12.1
+[15: 32: 42] [ip]: ::ffff:192.168.137.18 - [method]: GET [url]: /api/v1/user_app/get_user_update HTTP/1.1 [status]: 200 [response-time]: 9.483 ms [client]: okhttp/3.12.1
+[15: 32: 42] [ip]: ::ffff:192.168.137.18 - [method]: GET [url]: /api/v1/user_app/get_user HTTP/1.1 [status]: 200 [response-time]: 1.849 ms [client]: okhttp/3.12.1
+[15: 32: 42] [ip]: ::ffff:192.168.137.18 - [method]: GET [url]: /api/v1/user_app/get_user_update HTTP/1.1 [status]: 304 [response-time]: 1.360 ms [client]: okhttp/3.12.1
+[15: 32: 42] [ip]: ::ffff:192.168.137.18 - [method]: GET [url]: /api/v1/user_app/get_user_update HTTP/1.1 [status]: 304 [response-time]: 1.773 ms [client]: okhttp/3.12.1
+[15: 32: 42] [ip]: ::ffff:192.168.137.18 - [method]: GET [url]: /api/v1/user_app/get_user_update HTTP/1.1 [status]: 304 [response-time]: 2.041 ms [client]: okhttp/3.12.1

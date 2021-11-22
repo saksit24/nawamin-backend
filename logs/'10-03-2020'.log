@@ -1,0 +1,8 @@
+[14: 14: 38] [ip]: ::ffff:127.0.0.1 - [method]: POST [url]: /api/v1/product/add_product HTTP/1.1 [status]: 404 [response-time]: 1.314 ms [client]: PostmanRuntime/7.22.0
+[14: 25: 23] [ip]: ::ffff:127.0.0.1 - [method]: POST [url]: /api/v1/product/add_product HTTP/1.1 [status]: 404 [response-time]: 1.450 ms [client]: PostmanRuntime/7.22.0
+[14: 26: 37] [ip]: ::ffff:127.0.0.1 - [method]: POST [url]: /api/v1/product/add_product HTTP/1.1 [status]: 200 [response-time]: 27.474 ms [client]: PostmanRuntime/7.22.0
+[14: 28: 02] [ip]: ::ffff:127.0.0.1 - [method]: POST [url]: /api/v1/product/add_product HTTP/1.1 [status]: 200 [response-time]: 6513.257 ms [client]: PostmanRuntime/7.22.0
+[14: 28: 02] [ip]: ::ffff:127.0.0.1 - [method]: OPTIONS [url]: /api/v1/product/add_product HTTP/1.1 [status]: 200 [response-time]: 0.462 ms [client]: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36
+[14: 28: 02] [ip]: ::ffff:127.0.0.1 - [method]: POST [url]: /api/v1/product/add_product HTTP/1.1 [status]: 200 [response-time]: 2669.975 ms [client]: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36
+[14: 28: 02] [ip]: ::ffff:127.0.0.1 - [method]: OPTIONS [url]: /api/v1/product/add_product HTTP/1.1 [status]: 200 [response-time]: 0.204 ms [client]: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36
+[14: 28: 02] [ip]: ::ffff:127.0.0.1 - [method]: POST [url]: /api/v1/product/add_product HTTP/1.1 [status]: 200 [response-time]: 1797.305 ms [client]: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36
